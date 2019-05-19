@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - datetime
 image: /assets/images/countdowntimer.png
-visit: 'https://github.com/365lyf/PCFControls/tree/master/CountDownTimer'
+visit: 'http://365lyf.com/pcf-control-countdowntimer/'
 author: Andrew Ly
 author_twitter: 365lyf
 author_github: 365lyf
