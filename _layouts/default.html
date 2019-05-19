@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">    
+    <title>{{page.title}} | {{site.name}}</title>
+    
+    {% seo %}
+    
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
+    
+  
+      <link rel="stylesheet" href="{{site.baseurl}}/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/bootstrap.css">
+    
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    
+    {% include tracking-header.html %}
+    
+</head>
+    
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <a class="navbar-brand font-weight-bolder mr-3" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/{{site.logo}}"></a>
+       
+	<h1 class="font-weight-bold title"><a class="nav-link" style="white-space:nowrap; padding-left: 0px;" href="{{site.baseurl}}/">PCF Gallery</a></h1>
+    <span class="nav-link" style="pointer-events: none; color: #B2B2B2;">Categories</span>
+	<select class="form-control bg-graylight border-0 font-weight-bold" id="categoriesSelect" style="width: 200px;" onchange="location = this.value;">
+	 <option selected disabled>Please select</option>
+    {% assign categories_list = site.categories | sort %}
+      {% if categories_list.first[0] == null %}
+        {% for category in categories_list %}
+		 <option value="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }} ({{ site.tags[category].size }})</option>
+          <!-- <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category }} ({{ site.tags[category].size }})</a></li> -->
+        {% endfor %}
+      {% else %}
+        {% for category in categories_list %}
+		 <option value="{{site.baseurl}}/categories#{{ category[0] | downcase }}">{{ category[0] }} ({{ category[1].size }})</option>
+          <!-- <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/categories#{{ category[0] | downcase }}">{{ category[0] }} ({{ category[1].size }})</a></li> -->
+        {% endfor %}
+      {% endif %}
+    {% assign categories_list = nil %}
+	</select>    
+    <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarsDefault">        
+    	<ul class="navbar-nav mr-auto align-items-center">            
+          		
+    	</ul>
+    	<ul class="navbar-nav ml-auto align-items-center">
+		<span class="nav-link" style="pointer-events: none;">Search</span>
+		    {% include search-lunr.html %}    
+    		{% include menu-header.html %}
+    	</ul>
+    </div>
+    </nav>
 
+    <div id="lunrsearchresults">
+        <ul class="mb-0"></ul>
+    </div>
+
+    <main role="main">        
+        {{ content }}        
+    </main>
+    
+    <footer class="footer pt-3 pb-3 text-center">        
+    <div class="container">        
+          {% include footer-copyright.html %}
+        </div>
+    </footer>
+    
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    
+    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
+    
+    <script src="{{site.baseurl}}/assets/js/lunr.js"></script>
+    
+    {% include tracking-footer.html %}
+    
+</body>
+    
+</html>

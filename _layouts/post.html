@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<section class="bg-gray200 pt-5 pb-5">    
+    <div class="container">
+    	<div class="row justify-content-center">
+    		<div class="col-md-8">
+
+    			<article class="card"> 
+
+                    
+    			<div class="card-body">
+                    
+    				<h1 class="display-4">
+    				    {{page.title}} 
+                    </h1>                    
+                     
+					{% if page.image %} 
+						<img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
+					{% endif %}
+				    <h5>
+    				    {{page.title}} 
+                    </h5>        
+    				{{ content }}
+					Author: <b>{{page.author}}</b>
+					{% if page.author_twitter %}&nbsp;&nbsp;<a target="_blank" href="https://www.twitter.com/{{page.author_twitter}}"><i class="fa fa-twitter"></i></a>{% endif %}
+					{% if page.author_github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{page.author_twitter}}"><i class="fa fa-github"></i></a>{% endif %}
+					{% if page.author_website %}&nbsp;&nbsp;<a target="_blank" href="{{page.author_website}}"><i class="fa fa-rss"></i></a>{% endif %}
+                          <br/> <br/>
+                    {% if page.visit %}
+                    <p><a target="_blank" href="{{page.visit}}" class="btn btn-primary d-block font-weight-bold">
+                        Visit <i class="fa fa-external-link"></i></a>
+                    </p>
+                    {% endif %}
+                    {% assign sorted_cats = page.categories | sort %}
+					{% for category in sorted_cats %}
+                      <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories#{{ category | downcase }}">
+                        # {{ category | downcase }}
+                      </a>
+                    {% endfor %}
+                    
+    				{% include comments.html %}
+                    
+    			</div>  
+                    
+    			</article>
+                
+                <div class="PageNavigation">
+                  {% if page.next.url %}
+                    <a class="prev" href="{{site.baseurl}}{{page.next.url}}"><i class="fa fa-angle-left"></i> </a>
+                  {% endif %}
+                  {% if page.previous.url %}
+                    <a class="next" href="{{site.baseurl}}{{page.previous.url}}"><i class="fa fa-angle-right"></i></a>
+                  {% endif %}
+                </div>
+                
+    		</div>
+    	</div>
+    </div>
+</section>
