@@ -6,7 +6,7 @@ categories:
   - file
   - email
 image: /assets/images/fileexplorer.png
-visit: 'https://github.com/boudewijnsnoeren/PCF'
+visit: 'https://twitter.com/boudewijnsnoere/status/1127666359448559616'
 author: Boudewijn Snoeren
 author_twitter: boudewijnsnoere
 author_github: boudewijnsnoeren
