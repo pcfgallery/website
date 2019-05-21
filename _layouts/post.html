@@ -29,8 +29,10 @@ layout: default
 					{% if page.author_website %}&nbsp;&nbsp;<a target="_blank" href="{{page.author_website}}"><i class="fa fa-rss"></i></a>{% endif %}
                           <br/> <br/>
 				{% if page.demo_youtube %}
-				<i class="fa fa-youtube"></i> Demo<br/>
-				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<center>
+				<i class="fa fa-youtube-play"></i> Demo<br/>
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				
+				</center>
 				<br/> <br/>
 				 {% endif %}
                     {% if page.visit %}
