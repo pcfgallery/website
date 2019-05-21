@@ -28,6 +28,11 @@ layout: default
 					{% if page.author_github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{page.author_github}}"><i class="fa fa-github"></i></a>{% endif %}
 					{% if page.author_website %}&nbsp;&nbsp;<a target="_blank" href="{{page.author_website}}"><i class="fa fa-rss"></i></a>{% endif %}
                           <br/> <br/>
+				{% if page.demo_youtube %}
+				<i class="fa fa-youtube"></i> Demo<br/>
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<br/> <br/>
+				 {% endif %}
                     {% if page.visit %}
                     <p><a target="_blank" href="{{page.visit}}" class="btn btn-primary d-block font-weight-bold">
                         Visit <i class="fa fa-external-link"></i></a>
