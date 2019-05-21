@@ -6,6 +6,7 @@ categories:
   - number
 image: /assets/images/progressbar.png
 visit: 'http://365lyf.com/pcf-control-progress-bar/'
+demo_youtube: -l6mnI6K9kc
 author: Andrew Ly
 author_twitter: 365lyf
 author_github: 365lyf
