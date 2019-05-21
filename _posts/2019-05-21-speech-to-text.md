@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - speech
   - text
-image: /assets/images/speechtotext.jpg
+image: /assets/images/speechtotext.png
 visit: 'https://github.com/BenLBartle/PCF-Components'
 author: Ben Bartle
 author_twitter: benbartle
