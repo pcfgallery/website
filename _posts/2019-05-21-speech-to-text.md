@@ -6,6 +6,7 @@ categories:
   - text
 image: /assets/images/speechtotext.png
 visit: 'https://github.com/BenLBartle/PCF-Components'
+demo_youtube: LTrxk5THeV8
 author: Ben Bartle
 author_twitter: benbartle
 author_github: BenLBartle
