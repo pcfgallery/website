@@ -7,7 +7,7 @@ categories:
   - internet explorer
 image: /assets/images/openfile.jpg
 visit: 'https://github.com/jhetheringt7/PCF-CustomControl'
-author: Josh Hetherington
+author: josh_hetherington
 author_twitter:
 author_github: jhetheringt7
 author_linkedin:
