@@ -7,7 +7,7 @@ categories:
   - email
 image: /assets/images/fileexplorer.png
 visit: 'https://twitter.com/boudewijnsnoere/status/1127666359448559616'
-author: Boudewijn Snoeren
+author: boudewijn_snoeren
 author_twitter: boudewijnsnoere
 author_github: boudewijnsnoeren
 author_linkedin:
