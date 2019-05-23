@@ -6,7 +6,7 @@ categories:
 image: /assets/images/creditcardcontrol.jpg
 visit: 'https://github.com/jaguil3ra/PowerApps-KitControls'
 demo_youtube: ZuchaItFTYw
-author: Jose Aguilera
+author: jose_aguilera
 author_twitter: 
 author_github: jaguil3ra
 author_linkedin: jaguilera91
