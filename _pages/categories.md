@@ -15,7 +15,7 @@ permalink: "/categories"
     
     <div class="card-columns">
 
-        {% assign pages_list = category[1] %}
+        {% assign pages_list = category[1] | sort %}
         {% for post in pages_list %}
           {% if post.title != null %}
               {% if group == null or group == post.group %}
