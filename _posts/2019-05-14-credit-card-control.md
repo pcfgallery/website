@@ -4,9 +4,9 @@ metadate: hide
 categories:
   - credit card
 image: /assets/images/creditcardcontrol.jpg
-visit: 'https://github.com/jaguil3ra/PowerApps-KitControls'
+visit: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/CreditCardControl'
 demo_youtube: ZuchaItFTYw
 author: jose_aguilera
 ---
 
-A interactive control for credit card
+A custom control to show an interative Credit Card
