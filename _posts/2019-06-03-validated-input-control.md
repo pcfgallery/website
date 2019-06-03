@@ -2,7 +2,9 @@
 title: Validated Input Control
 metadate: hide
 categories:
-  - timeline
+  - text
+  - regex
+  - validation
 image: /assets/images/validated.png
 visit: 'https://www.itaintboring.com/dynamics-crm/pcf-controls-now-i-have-my-first-pcf-control-too/'
 author: alex_shlega
