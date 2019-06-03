@@ -34,19 +34,26 @@ layout: default
 				 {% endif %}
 				{% if page.demo_youtube %}
 				<center>
-				<i class="fa fa-youtube-play"></i> Demo<br/>
+				Demo<br/>
 				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				
 				</center>
 				<br/>
 				 {% endif %}
 				{% if page.demo_video %}
 				<center>
-				<i class="fa fa-video-camera"></i> Demo<br/>
+				Demo<br/>
 					<video width="560" height="315" controls>
    						 <source src="{{page.demo_video}}" type="video/mp4">
 					</video>
 					
 				<!--<iframe width="560" height="315" src="{{page.demo_video}}" frameborder="0" allowfullscreen></iframe>-->				
+				</center>
+				<br/>
+				 {% endif %}
+				{% if page.demo_gif %}
+				<center>
+				Demo<br/>
+					<img src="{{page.demo_gif}}">			
 				</center>
 				<br/>
 				 {% endif %}
