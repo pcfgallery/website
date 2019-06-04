@@ -57,7 +57,7 @@ layout: default
 				</center>
 				<br/>
 				 {% endif %}
-				<p>
+				
 					 {% if page.visit and page.download %}
 					<div class="row">
 						<div class="col-md-6" style="margin-top: 5px;">
@@ -65,16 +65,15 @@ layout: default
 						</div>
 						<div class="col-md-6" style="margin-top: 5px;">
 							<a target="_blank" href="{{page.download}}" class="w-100 btn btn-primary font-weight-bold">Download <i class="fa fa-download"></i></a>
-						</div>
-					</div>
+						</div>					
+					</div><p></p>
                     {% endif %}
-					{% if page.visit and page.download == nil %}						
-							<a target="_blank" href="{{page.visit}}" class="w-100 btn btn-primary font-weight-bold">Visit <i class="fa fa-external-link"></i></a>
+					{% if page.visit and page.download == nil %}					
+							<p><a target="_blank" href="{{page.visit}}" class="w-100 btn btn-primary font-weight-bold">Visit <i class="fa fa-external-link"></i></a></p>
                     {% endif %}
 					{% if page.visit == nil and page.download %}
-							<a target="_blank" href="{{page.download}}" class="w-100 btn btn-primary font-weight-bold">Download <i class="fa fa-download"></i></a>						
+							<p><a target="_blank" href="{{page.download}}" class="w-100 btn btn-primary font-weight-bold">Download <i class="fa fa-download"></i></a></p>					
                     {% endif %}
-					</p>
 					
                     {% assign sorted_cats = page.categories | sort %}
 					{% for category in sorted_cats %}
