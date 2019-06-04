@@ -6,7 +6,7 @@ categories:
   - money
   - currency
 image: /assets/images/exchangerate.jpg
-visit: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/ExchangeRateControl'
+download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/ExchangeRateControl'
 demo_youtube: SzZeOQf7OqI
 author: jose_aguilera
 ---

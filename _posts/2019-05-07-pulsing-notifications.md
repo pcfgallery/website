@@ -6,6 +6,7 @@ categories:
   - notification
 image: /assets/images/pulsingnotifications.png
 visit: 'http://365lyf.com/pcf-control-pulsing-notifications/'
+download: 'https://github.com/365lyf/PCFControls/tree/master/NotificationPulsing'
 demo_youtube: UzStHZ2Bz20
 author: andrew_ly
 ---

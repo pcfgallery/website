@@ -35,14 +35,14 @@ layout: default
 				{% if page.demo_youtube %}
 				<center>
 				Demo<br/>
-				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				
+				<iframe width="100%" src="https://www.youtube-nocookie.com/embed/{{page.demo_youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				
 				</center>
 				<br/>
 				 {% endif %}
 				{% if page.demo_video %}
 				<center>
 				Demo<br/>
-					<video width="560" height="315" controls>
+					<video width="100%" controls>
    						 <source src="{{page.demo_video}}" type="video/mp4">
 					</video>
 					
@@ -57,11 +57,25 @@ layout: default
 				</center>
 				<br/>
 				 {% endif %}
-                    {% if page.visit %}
-                    <p><a target="_blank" href="{{page.visit}}" class="btn btn-primary d-block font-weight-bold">
-                        Visit <i class="fa fa-external-link"></i></a>
-                    </p>
+				<p>
+					 {% if page.visit and page.download %}
+					<div class="row">
+						<div class="col-md-6" style="margin-top: 5px;">
+							<a target="_blank" href="{{page.visit}}" class="w-100 btn btn-primary font-weight-bold">Visit <i class="fa fa-external-link"></i></a>
+						</div>
+						<div class="col-md-6" style="margin-top: 5px;">
+							<a target="_blank" href="{{page.download}}" class="w-100 btn btn-primary font-weight-bold">Download <i class="fa fa-download"></i></a>
+						</div>
+					</div>
                     {% endif %}
+					{% if page.visit and page.download == nil %}						
+							<a target="_blank" href="{{page.visit}}" class="w-100 btn btn-primary font-weight-bold">Visit <i class="fa fa-external-link"></i></a>
+                    {% endif %}
+					{% if page.visit == nil and page.download %}
+							<a target="_blank" href="{{page.download}}" class="w-100 btn btn-primary font-weight-bold">Download <i class="fa fa-download"></i></a>						
+                    {% endif %}
+					</p>
+					
                     {% assign sorted_cats = page.categories | sort %}
 					{% for category in sorted_cats %}
                       <a class="btn btn-sm btn-primary mt-2" href="{{site.baseurl}}/categories#{{ category | downcase }}">

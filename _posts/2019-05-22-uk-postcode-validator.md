@@ -5,7 +5,7 @@ categories:
   - uk
   - postal code
 image: /assets/images/ukpostcode.png
-visit: 'https://github.com/jhetheringt7/PCF-CustomControl'
+download: 'https://github.com/jhetheringt7/PCF-CustomControl/tree/master/PCF_Postcode'
 demo_youtube:
 demo_video: 
 author: josh_hetherington

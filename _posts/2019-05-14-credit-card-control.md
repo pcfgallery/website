@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - credit card
 image: /assets/images/creditcardcontrol.jpg
-visit: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/CreditCardControl'
+download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/CreditCardControl'
 demo_youtube: ZuchaItFTYw
 author: jose_aguilera
 ---

@@ -5,7 +5,7 @@ categories:
   - year
   - datetime
 image: /assets/images/yearpicker.png
-visit: 'https://github.com/delegateas/PCF'
+download: 'https://github.com/delegateas/PCF'
 demo_youtube: 
 demo_video:
 author: magnus_gether_sorensen

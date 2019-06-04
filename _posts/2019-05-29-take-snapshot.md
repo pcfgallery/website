@@ -6,7 +6,7 @@ categories:
   - camera
   - snapshot
 image: /assets/images/takesnapshot.png
-visit: 'https://github.com/kumar1586/PowerAppsCompFramework'
+download: 'https://github.com/kumar1586/PowerAppsCompFramework'
 demo_youtube:
 demo_video: /assets/videos/takesnapshot.mp4
 author: pavan_kumar

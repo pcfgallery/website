@@ -6,7 +6,7 @@ categories:
   - visualization
   - connection
 image: /assets/images/datasetvisualization.png
-visit: 'https://github.com/dynamicscode/PCF-DataSetDemo'
+download: 'https://github.com/dynamicscode/PCF-DataSetDemo'
 demo_youtube:
 demo_video: /assets/videos/datasetvisualization.mp4
 author: aung_khaing

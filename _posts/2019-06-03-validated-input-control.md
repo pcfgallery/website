@@ -7,6 +7,7 @@ categories:
   - validation
 image: /assets/images/validated.png
 visit: 'https://www.itaintboring.com/dynamics-crm/pcf-controls-now-i-have-my-first-pcf-control-too/'
+download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/ValidatedInputControl'
 author: alex_shlega
 ---
 
