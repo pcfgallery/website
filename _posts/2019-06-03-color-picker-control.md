@@ -1,3 +1,4 @@
+---
 title: Color Picker Control
 metadate: hide
 categories:
