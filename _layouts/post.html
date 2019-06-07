@@ -5,33 +5,32 @@ layout: default
     <div class="container">
     	<div class="row justify-content-center">
     		<div class="col-md-8">
-
-    			<article class="card"> 
-
-                    
-    			<div class="card-body">
-                    
-    				<h1 class="display-4">
-    				    {{page.title}} 
-                    </h1>                    
-                     
-					{% if page.image %} 
-						<img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
-					{% endif %}
-				    <h5>
-    				    {{page.title}} 
-                    </h5>        
-    				{{ content }}
-				
-				{% assign author = site.data.authors[page.author] %}
-				{% if author %}
-					Author: <b><a href="{{site.baseurl}}/authors#{{ page.author | downcase }}">{{author.name}}</a></b>
-					{% if author.twitter %}&nbsp;&nbsp;<a target="_blank" href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a>{% endif %}
-					{% if author.linkedin %}&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/{{author.linkedin}}/"><i class="fa fa-linkedin"></i></a>{% endif %}
-					{% if author.github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{author.github}}"><i class="fa fa-github"></i></a>{% endif %}
-					{% if author.website %}&nbsp;&nbsp;<a target="_blank" href="{{author.website}}"><i class="fa fa-rss"></i></a>{% endif %}
-                          <br/> <br/>
-				 {% endif %}
+    			<article class="card">               
+					<div class="card-body">
+						<h1 class="display-4">
+							{{page.title}} 
+						</h1>                    
+						{% if page.image %} 
+							<img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
+						{% endif %}
+						<h5>
+							{{page.title}} 
+						</h5>        
+						{{ content }}
+								
+						{% assign page_authors = page.author | split: ", " %}
+						{% for page_author in page_authors %}
+							{% assign author = site.data.authors[page_author] %}
+							{% if author %}
+								Author: <b><a href="{{site.baseurl}}/authors#{{ page.author | downcase }}">{{author.name}}</a></b>
+								{% if author.twitter %}&nbsp;&nbsp;<a target="_blank" href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a>{% endif %}
+								{% if author.linkedin %}&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/{{author.linkedin}}/"><i class="fa fa-linkedin"></i></a>{% endif %}
+								{% if author.github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{author.github}}"><i class="fa fa-github"></i></a>{% endif %}
+								{% if author.website %}&nbsp;&nbsp;<a target="_blank" href="{{author.website}}"><i class="fa fa-rss"></i></a>{% endif %}
+								<br/>
+							{% endif %}
+						{% endfor %}
+						<br/>
 				{% if page.demo_youtube %}
 				<center>
 				Demo<br/>
