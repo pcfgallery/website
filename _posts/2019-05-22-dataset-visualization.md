@@ -9,7 +9,8 @@ image: /assets/images/datasetvisualization.png
 download: 'https://github.com/dynamicscode/PCF-DataSetDemo'
 demo_youtube:
 demo_video: /assets/videos/datasetvisualization.mp4
-author: aung_khaing
+authors:
+  - aung_khaing
 ---
 
 A component using DataSet to visualize record connections.

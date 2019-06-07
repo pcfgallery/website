@@ -6,7 +6,8 @@ categories:
 image: /assets/images/creditcardcontrol.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/CreditCardControl'
 demo_youtube: ZuchaItFTYw
-author: jose_aguilera
+authors:
+  - jose_aguilera
 ---
 
 A custom control to show an interative Credit Card

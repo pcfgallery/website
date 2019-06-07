@@ -1,5 +1,5 @@
 ---
-title: "Authors X"
+title: "Authors"
 layout: default
 permalink: "/authors"
 ---

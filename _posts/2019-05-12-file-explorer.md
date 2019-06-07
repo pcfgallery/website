@@ -7,7 +7,8 @@ categories:
   - email
 image: /assets/images/fileexplorer.png
 download: 'https://github.com/boudewijnsnoeren/PCF'
-author: boudewijn_snoeren
+authors:
+  - boudewijn_snoeren
 ---
 
 Dynamics 365 FileExplorer is a control to make (email) attachments more visible
