@@ -22,7 +22,7 @@ layout: default
 						{% for page_author in page_authors %}
 							{% assign author = site.data.authors[page_author] %}
 							{% if author %}
-								Author: <b><a href="{{site.baseurl}}/authors#{{ page.author | downcase }}">{{author.name}}</a></b>
+								Author: <b><a href="{{site.baseurl}}/authors#{{ page_author | downcase }}">{{author.name}}</a></b>
 								{% if author.twitter %}&nbsp;&nbsp;<a target="_blank" href="https://www.twitter.com/{{author.twitter}}"><i class="fa fa-twitter"></i></a>{% endif %}
 								{% if author.linkedin %}&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/{{author.linkedin}}/"><i class="fa fa-linkedin"></i></a>{% endif %}
 								{% if author.github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{author.github}}"><i class="fa fa-github"></i></a>{% endif %}
