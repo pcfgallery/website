@@ -18,8 +18,8 @@ layout: default
 						</h5>        
 						{{ content }}
 								
-						{% assign page_authors = page.author | split: ", " %}
-						{% for page_author in page_authors %}
+						
+						{% for page_author in page.authors %}
 							{% assign author = site.data.authors[page_author] %}
 							{% if author %}
 								Author: <b><a href="{{site.baseurl}}/authors#{{ page_author | downcase }}">{{author.name}}</a></b>

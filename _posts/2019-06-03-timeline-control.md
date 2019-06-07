@@ -6,7 +6,8 @@ categories:
 image: /assets/images/timeline.jpg
 visit: 'https://mannygrewal.wordpress.com/2019/06/02/introducing-crm-timeline-control/'
 download: 'https://github.com/MannyGrewal/CRM.Timeline'
-author: manny_grewal
+authors:
+  - manny_grewal
 demo_gif: /assets/videos/timeline.gif
 ---
 

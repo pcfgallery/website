@@ -1,5 +1,5 @@
 ---
-title: "Authors"
+title: "Authors X"
 layout: default
 permalink: "/authors"
 ---
@@ -10,7 +10,7 @@ permalink: "/authors"
         </div>
         {% assign authors = site.data.authors| sort %}
         {% for author in authors %}
-            {% assign pages_list = site.posts | where: "author", author[0] | sort %}
+            {% assign pages_list = site.posts | where: "authors", author[0] | sort %}
     	    {% assign psize = pages_list | size %}
     	    {% if psize != 0 %}
     	        <section id="{{ author[0] | downcase }}" style="padding-top: 90px;"></section>	

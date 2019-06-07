@@ -4,7 +4,7 @@ permalink: "/about"
 ---
 PCF Gallery is a collection of controls created with the PowerApps Component Framework.
 
-The aim of this site is to list the controls created by the Power Platform community (only controls that can be downloaded are listed).
+The aim of this site is to list the controls created by the Power Platform community.
 
 If you have an idea for a new PCF control, go to our <a target="_blank" href="https://pcfgallery.userecho.com">forum</a>, write there your suggestion and maybe a developer will help you out.
 
