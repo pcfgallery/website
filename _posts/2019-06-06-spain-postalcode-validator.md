@@ -7,7 +7,7 @@ categories:
 image: /assets/images/cp.png
 download: 'https://github.com/CesarCalvoCobo/PCFCustomControls'
 demo_youtube:
-demo_video: 
+demo_gif: /assets/videos/cp.gif
 authors:
   - cesar_calvo_cobo
 ---
