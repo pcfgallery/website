@@ -1,10 +1,18 @@
+guido_preite:
+  name: Guido Preite
+  twitter: crmanswers
+  github: GuidoPreite
+  linkedin: guidopreite
+  facebook:
+  website: 'https://crmanswers.net'
+
 andrew_ly:
   name: Andrew Ly
   twitter: 365lyf
   github: 365lyf
   linkedin: andrewlyadelaide
   facebook:
-  website: 'http://365lyf.com/'
+  website: 'http://365lyf.com'
   
 ben_bartle:
   name: Ben Bartle
@@ -12,7 +20,7 @@ ben_bartle:
   github: BenLBartle
   linkedin: benbartle
   facebook:
-  website: 'https://bartl.io/'
+  website: 'https://bartl.io'
   
 manny_grewal:
   name: Manny Grewal
@@ -20,7 +28,7 @@ manny_grewal:
   github: MannyGrewal
   linkedin: mpgrewal
   facebook:
-  website: 'https://mannygrewal.wordpress.com/'  
+  website: 'https://mannygrewal.wordpress.com'  
  
 boudewijn_snoeren:
   name: Boudewijn Snoeren
@@ -36,7 +44,7 @@ jose_aguilera:
   github: jaguil3ra
   linkedin: jaguilera91
   facebook:
-  website: 'https://jaguil3ra.com/'
+  website: 'https://jaguil3ra.com'
   
 josh_hetherington:
   name: Josh Hetherington
@@ -52,7 +60,7 @@ aung_khaing:
   github: dynamicscode
   linkedin: aung-khaing-04007731
   facebook:
-  website: 'http://blog.dynamicscode.net/'
+  website: 'http://blog.dynamicscode.net'
   
 magnus_gether_sorensen:
   name: Magnus Gether Sørensen
@@ -84,7 +92,7 @@ alex_shlega:
   github: ashlega
   linkedin: alexandershlega
   facebook:
-  website: 'https://www.itaintboring.com/'
+  website: 'https://www.itaintboring.com'
   
 sriram_balaji:
   name: Sriram Balaji
@@ -100,7 +108,7 @@ ivan_ficko:
   github: DynamicsNinja
   linkedin: ivanficko
   facebook:
-  website: 'https://dynamicsninja.blog/'
+  website: 'https://dynamicsninja.blog'
 
 aric_levin:
   name: Aric Levin
