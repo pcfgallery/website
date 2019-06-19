@@ -5,7 +5,7 @@ categories:
   - attachments
   - image
   - gallery
-image: /assets/images/attachmentgallery.png
+image: /assets/images/attachmentgallery.jpg
 visit: 'https://www.dancingwithcrm.com/first-pcf-control/'
 download: 'https://github.com/OOlashyn/PCF-AttachmentGalleryControl'
 authors:
