@@ -9,7 +9,7 @@ visit: 'https://crmsimplesilly.wordpress.com/2019/06/20/powerapps-component-fram
 download: 'https://github.com/prasath2k4/TimerControl'
 authors:
   - ramprasath_ramamurthi
-demo_yotube: vhRkRiPTyFc
+demo_youtube: vhRkRiPTyFc
 ---
 
 A control to validate an email address using <a target="_blank" href="https://email.perfectvalidation.com/">PerfectValidation API</a>.
