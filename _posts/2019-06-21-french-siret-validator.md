@@ -3,7 +3,7 @@ title: French SIRET Validator
 metadate: hide
 categories:
   - france
-  - siren
+  - siret
   - validation
 image: /assets/images/siret.jpg
 visit: 
