@@ -3,7 +3,7 @@ title: Linear Input Control
 metadate: hide
 categories:
   - number
-  - linear
+  - slider
 image: /assets/images/linear.png
 download: 'https://github.com/codecprojects/TSLinearInputControl'
 authors:
