@@ -13,4 +13,4 @@ authors:
 demo_gif: /assets/videos/tree.gif
 ---
 
-A control to display a hierarchy for tags (mapped to a many-to-many relationship) using a treeview.
+A control to display a hierarchy of tags (mapped to a many-to-many relationship) using a treeview.
