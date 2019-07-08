@@ -11,4 +11,4 @@ authors:
   - sriram_balaji
 ---
 
-A control to allow the user to personalize the colors of the grid like Header color, row Color and cell color.
+A control to personalize the colors of the grid like Header color, row Color and cell color.
