@@ -12,4 +12,5 @@ authors:
 demo_gif: /assets/videos/iban2.gif
 ---
 
-A control to validate an IBAN (International Bank Account Number) using the <a target="_blank" href="https://www.npmjs.com/package/iban">IBAN.js npm package</a>.
+A control to validate an IBAN (International Bank Account Number) using the <a target="_blank" href="https://www.npmjs.com/package/iban">IBAN.js npm package</a>.<br/>
+Disclaimer: the control is currently using deprecated code to block the save of the form.
