@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - autonumber
 image: /assets/images/autonumber.png
-visit: 
+visit: 'https://rajsekhar311.com/2019/07/12/auto-number-powerapp-custom-control/'
 download: 'https://github.com/rajsekhar311/Auto-Number-PCF-Control'
 authors:
   - phani_raja_sekhar
