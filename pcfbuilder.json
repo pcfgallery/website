@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[{% for post in site.posts %} {% assign author_name = "" %} {% for page_author in post.authors %} {% assign author = site.data.authors[page_author] %} {% if author %} {% assign author_name = author_name | append: author.name %} {% endif %} {% unless forloop.last %} {% assign author_name = author_name | append:", " %} {% endunless %} {% endfor %}
+    {
+      "title": "{{ post.title }}",
+      "description": "{{ post.content | xml_escape | strip }}",
+      "link": "https://pcf.gallery{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+      "image": "https://pcf.gallery{{ post.image | prepend: site.baseurl | prepend: site.url  }}",
+      "download": "{{ post.download | prepend: site.baseurl | prepend: site.url  }}",
+      "author":"{{author_name}}"
+    }{% unless forloop.last %}, {% endunless %} {% endfor %}
+]
