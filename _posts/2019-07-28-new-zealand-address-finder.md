@@ -14,4 +14,4 @@ authors:
   - sankalp_bansal
 ---
 
-A control to auto populate an address for the New Zealand reagion using <a target="_blank" href="https://addressfinder.nz/">AddressFinder API</a>. 
+A control to auto populate a New Zealand address using <a target="_blank" href="https://addressfinder.nz/">AddressFinder API</a>. 
