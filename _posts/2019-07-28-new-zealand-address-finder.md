@@ -1,5 +1,5 @@
 ---
-title: New Zealand Adress Finder
+title: New Zealand Address Finder
 metadate: hide
 categories:
   - address
