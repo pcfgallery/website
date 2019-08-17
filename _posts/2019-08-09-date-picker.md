@@ -12,4 +12,4 @@ authors:
   - natraj_yegnaraman
 ---
 
-A control with  Office UI Fabric interface to replace the OOB Date Picker (DateAndTime.DateOnly).
+A control with Office UI Fabric interface to replace the OOB Date Picker (DateAndTime.DateOnly).
