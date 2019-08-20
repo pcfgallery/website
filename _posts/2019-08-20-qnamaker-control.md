@@ -1,0 +1,17 @@
+---
+title: QnAMaker Control
+metadate: hide
+categories:
+  - qnamaker
+  - faq
+  - knowledge base
+image: /assets/images/qnamaker.jpg
+visit: 'https://dhina.org/2019/08/19/my-first-pcf-control/'
+download: 'https://github.com/dhinag/pcf-qnamakercontrol'
+demo_youtube:
+demo_gif: /assets/videos/qnamaker.gif
+authors:
+  - dhinakaran_gajavarathan
+---
+
+A control query their a Frequently Asked Questions database in a natural language leveraging <a target="_blank" href="https://www.qnamaker.ai/">QnAMaker</a>.
