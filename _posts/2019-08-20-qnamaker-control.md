@@ -14,4 +14,4 @@ authors:
   - dhinakaran_gajavarathan
 ---
 
-A control query their a Frequently Asked Questions database in a natural language leveraging <a target="_blank" href="https://www.qnamaker.ai/">QnAMaker</a>.
+A control to query a Frequently Asked Questions database in a natural language leveraging <a target="_blank" href="https://www.qnamaker.ai/">QnAMaker</a>.
