@@ -15,4 +15,4 @@ authors:
   - dhinakaran_gajavarathan
 ---
 
-A control to replace the OOB Date Picker to support date entry in natural language (Examples: <i>next Saturday</i<>, <i>two weeks from today</i>).
+A control to replace the OOB Date Picker to support date entry in natural language (Examples: <i>next Saturday</i>, <i>two weeks from today</i>).
