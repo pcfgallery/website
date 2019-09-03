@@ -5,7 +5,7 @@ categories:
   - qnamaker
   - faq
   - knowledge base
-  - natural language processing
+  - nlp
 image: /assets/images/qnamaker.jpg
 visit: 'https://dhina.org/2019/08/19/my-first-pcf-control/'
 download: 'https://github.com/dhinag/pcf-qnamakercontrol'
