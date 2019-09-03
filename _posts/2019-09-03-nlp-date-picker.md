@@ -5,7 +5,7 @@ categories:
   - date
   - picker
   - office ui fabric
-  - natural language processing
+  - nlp
 image: /assets/images/nlpdatepicker.jpg
 visit: 'https://dhina.org/2019/09/02/nlp-date-picker/'
 download: 'https://github.com/dhinag/Office-UI-Fabric-Date-Picker'
