@@ -9,13 +9,24 @@ layout: default
 					<div class="card-body">
 						<h1 class="display-4">
 							{{page.title}} 
-						</h1>                    
+						</h1> 
 						{% if page.image %} 
 							<img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
 						{% endif %}
 						<h5>
-							{{page.title}} 
-						</h5>        
+							{{page.title}}
+						</h5>
+						<span style="color: #742775; padding: 5px;">
+						<i class="fa fa-th-list" title="made for Model-driven Apps"></i>
+						<span style="color: #742775; font-weight:bold;">&nbsp;MODEL-DRIVEN APPS</span>
+						</span>
+						{% if page.canvas_support == true %}
+						<span style="color: #742775; padding: 5px;">
+						<i class="fa fa-paint-brush" title="made for Canvas Apps"></i>
+						<span style="color: #742775; font-weight:bold;">&nbsp;CANVAS APPS</span>
+						</span>
+						{% endif %}	
+						<hr>						
 						{{ content }}
 								
 						{% for page_author in page.authors %}

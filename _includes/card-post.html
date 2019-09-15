@@ -35,10 +35,15 @@
         <img class="card-img" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">             
         
             <div class="notraco">
-                <h2 class="card-title title">{{ post.title }}</h2>
-                <div class="more">                
-                    <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
-                </div>  
+                <h2 class="card-title title">{{ post.title }}
+				&nbsp;<i class="fa fa-th-list text-muted" aria-hidden="true" title="made for Model-driven Apps"></i>
+				{% if post.canvas_support == true %}
+				&nbsp;<i class="fa fa-paint-brush text-muted" aria-hidden="true" title="made for Canvas Apps"></i>		
+				{% endif %}
+				</h2>
+                <!-- <div class="more">   -->
+					<!-- <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i> -->
+                <!-- </div>   -->
             </div>
             
          </a>
