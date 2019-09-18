@@ -5,6 +5,8 @@ categories:
   - guid
 image: /assets/images/guid.png
 download: 'https://github.com/nishantranacrm/PCFControls/tree/master/PCFGuidControl/GuidPCFControl'
+model_support: true
+canvas_support: false
 authors:
   - nishant_rana
 ---

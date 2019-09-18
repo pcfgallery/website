@@ -8,6 +8,8 @@ categories:
 image: /assets/images/monthpicker.png
 visit: 'https://srirambalajitech.blogspot.com/2019/06/month-picker-pcf-control.html'
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/MonthPicker'
+model_support: true
+canvas_support: false
 authors:
   - sriram_balaji
 ---

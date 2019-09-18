@@ -8,6 +8,8 @@ categories:
 image: /assets/images/datepicker.jpg
 visit: 
 download: 'https://github.com/rajyraman/Office-UI-Fabric-Date-Picker'
+model_support: true
+canvas_support: false
 authors:
   - natraj_yegnaraman
 ---

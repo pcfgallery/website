@@ -8,6 +8,8 @@ categories:
 image: /assets/images/tree.jpg
 visit: 'https://www.itaintboring.com/dynamics-crm/more-checkboxes-in-pcf-as-a-treeview-this-time/'
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/TreeRelationships'
+model_support: true
+canvas_support: false
 authors:
   - alex_shlega
 demo_gif: /assets/videos/tree.gif

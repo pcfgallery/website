@@ -8,6 +8,8 @@ categories:
 image: /assets/images/validated.png
 visit: 'https://www.itaintboring.com/dynamics-crm/pcf-controls-now-i-have-my-first-pcf-control-too/'
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/ValidatedInputControl'
+model_support: true
+canvas_support: false
 authors:
   - alex_shlega
 ---

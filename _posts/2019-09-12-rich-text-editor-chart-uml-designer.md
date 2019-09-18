@@ -9,6 +9,8 @@ image: /assets/images/richtextchartuml.jpg
 visit:
 download: 'https://github.com/jeevarajan04/PCF-Rich-txt-Editor-with-chart-and-UML-designer'
 demo_video: /assets/videos/richtextchartuml.mp4
+model_support: true
+canvas_support: false
 authors:
   - jeevarajan_kumar
 ---

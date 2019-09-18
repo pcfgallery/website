@@ -8,6 +8,8 @@ image: /assets/images/dependentoptionset.jpg
 download: 'https://github.com/a33ik/DependentOptionset_PCF'
 demo_youtube:
 demo_video: /assets/videos/dependentoptionset.mp4
+model_support: true
+canvas_support: false
 authors:
   - andrew_butenko
 ---

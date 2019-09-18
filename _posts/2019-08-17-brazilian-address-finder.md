@@ -9,6 +9,8 @@ visit: 'http://blog.michaelfp.com.br/2019/08/17/localizador-de-endereco-power-ap
 download: 'https://github.com/michaelfp/pcf-endereco-control'
 demo_youtube:
 demo_gif: 
+model_support: true
+canvas_support: false
 authors:
   - michael_ferro_pereira
 ---

@@ -9,6 +9,8 @@ image: /assets/images/contactcards.jpg
 visit: 'https://dreamingincrm.com/2019/08/15/using-pcf-to-display-contact-cards/'
 download: 'https://github.com/rajyraman/Office-UI-Fabric-Card'
 demo_video: /assets/videos/contactcards.mp4
+model_support: true
+canvas_support: false
 authors:
   - natraj_yegnaraman
 ---

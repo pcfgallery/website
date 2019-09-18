@@ -7,6 +7,8 @@ categories:
 image: /assets/images/checkboxlist.png
 visit: 'https://www.itaintboring.com/dynamics-crm/a-pcf-subgrid-to-check-off-related-items-quickly/'
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/CheckBoxList'
+model_support: true
+canvas_support: false
 authors:
   - alex_shlega
 demo_gif: /assets/videos/checkboxlist.gif

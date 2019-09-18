@@ -11,6 +11,8 @@ visit: 'http://blog.michaelfp.com.br/2019/08/20/validador-cpf-e-cnpj-powerapps-f
 download: 'https://github.com/michaelfp/pcf-cpfcnpj-control/'
 demo_youtube:
 demo_gif: /assets/videos/cpfcnpj.gif
+model_support: true
+canvas_support: false
 authors:
   - michael_ferro_pereira
 ---

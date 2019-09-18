@@ -9,6 +9,7 @@ image: /assets/images/textanalytics.png
 visit:
 download: 'https://github.com/Danz-maveRICK/PCF-Controls/tree/master/TextAnalytics'
 demo_video: /assets/videos/textanalytics.mp4
+model_support: true
 canvas_support: true
 authors:
   - danish_naglekar

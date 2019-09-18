@@ -6,6 +6,8 @@ categories:
   - maps
 image: /assets/images/googlemap.jpg
 download: 'https://github.com/codecprojects/PCFMapControl/'
+model_support: true
+canvas_support: false
 authors:
   - giles_forde
 ---

@@ -7,6 +7,8 @@ categories:
 image: /assets/images/itemscomparator.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/DSItemsComparator'
 demo_youtube: 1c1OChnhgsA
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

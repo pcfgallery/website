@@ -7,6 +7,8 @@ image: /assets/images/sbpflow.jpg
 visit: 'https://crmindian.com/2019/09/11/pcf-control-sub-business-process-flow/'
 download: 'https://github.com/jeevarajan04/PCF-Sub-Business-Process-Flow'
 demo_youtube: hyWjpRwrsGc
+model_support: true
+canvas_support: false
 authors:
   - jeevarajan_kumar
 ---

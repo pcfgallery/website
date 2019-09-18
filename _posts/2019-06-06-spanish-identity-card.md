@@ -8,6 +8,8 @@ image: /assets/images/dni.png
 download: 'https://github.com/CesarCalvoCobo/PCFCustomControls'
 demo_youtube:
 demo_gif: /assets/videos/dni.gif
+model_support: true
+canvas_support: false
 authors:
   - cesar_calvo_cobo
 ---

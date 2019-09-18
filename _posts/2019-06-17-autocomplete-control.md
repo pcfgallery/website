@@ -7,6 +7,8 @@ categories:
 image: /assets/images/autocomplete.png
 visit: 'http://srirambalajitech.blogspot.com/2019/06/autocomplete-pcf-control.html'
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/Autocomplete'
+model_support: true
+canvas_support: false
 authors:
   - sriram_balaji
 ---

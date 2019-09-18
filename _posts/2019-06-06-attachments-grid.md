@@ -9,6 +9,8 @@ image: /assets/images/attachmentsgrid.png
 download: 'https://github.com/BenLBartle/PCF-AttachmentsGrid'
 demo_youtube:
 demo_video: /assets/videos/attachmentsgrid.mp4
+model_support: true
+canvas_support: false
 authors:
   - ben_bartle
   - josh_hetherington

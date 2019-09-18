@@ -9,6 +9,8 @@ visit: 'https://d365spartan.wordpress.com/2019/08/28/pcf-social-media-icons-cont
 download: 'https://github.com/vigneshr1236/PCF-365spartan-Custom-SocialMediaIconsControl'
 demo_youtube: V-Ff7yPTijA
 demo_video: 
+model_support: true
+canvas_support: false
 authors:
   - vignesh_r
 ---

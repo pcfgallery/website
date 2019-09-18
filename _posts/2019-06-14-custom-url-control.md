@@ -6,6 +6,8 @@ categories:
 image: /assets/images/customurlcontrol.jpg
 visit: 'https://www.crmanswers.net/2019/06/my-first-pcf-control.html'
 download: 'https://github.com/GuidoPreite/PCF_CustomUrlControl'
+model_support: true
+canvas_support: false
 authors:
   - guido_preite
 ---

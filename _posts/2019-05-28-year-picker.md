@@ -8,6 +8,8 @@ image: /assets/images/yearpicker.png
 download: 'https://github.com/delegateas/PCF'
 demo_youtube: 
 demo_video:
+model_support: true
+canvas_support: false
 authors:
   - magnus_gether_sorensen
 ---

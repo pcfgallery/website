@@ -8,6 +8,8 @@ categories:
 image: /assets/images/nncheckboxes.png
 visit: 
 download: 'https://github.com/MscrmTools/PCF-Controls'
+model_support: true
+canvas_support: false
 authors:
   - tanguy_touzard
 demo_gif: /assets/videos/nncheckboxes.gif

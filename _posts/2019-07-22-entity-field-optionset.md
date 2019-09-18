@@ -9,6 +9,8 @@ image: /assets/images/entityfield.png
 download: 'https://github.com/a33ik/EntityFieldOptionset_PCF'
 demo_youtube:
 demo_video: /assets/videos/entityfield.mp4
+model_support: true
+canvas_support: false
 authors:
   - andrew_butenko
 ---

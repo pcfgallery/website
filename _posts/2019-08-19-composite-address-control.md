@@ -8,6 +8,8 @@ image: /assets/images/compositeaddress.jpg
 download: 'https://github.com/a33ik/CompositeAddress_PCF'
 demo_youtube:
 demo_video: /assets/videos/compositeaddress.mp4
+model_support: true
+canvas_support: false
 authors:
   - andrew_butenko
 ---

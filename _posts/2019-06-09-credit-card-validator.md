@@ -6,6 +6,8 @@ categories:
 image: /assets/images/creditcardvalidator.png
 visit: 'https://community.dynamics.com/crm/b/briteglobalsolutions/posts/credit-card-validator-pcf-control'
 download: 'https://community.dynamics.com/crm/b/briteglobalsolutions/posts/credit-card-validator-pcf-control'
+model_support: true
+canvas_support: false
 authors:
   - aric_levin
 demo_gif: /assets/videos/creditcardvalidator.gif

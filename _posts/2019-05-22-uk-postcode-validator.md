@@ -8,6 +8,8 @@ image: /assets/images/ukpostcode.png
 download: 'https://github.com/jhetheringt7/PCF-CustomControl/tree/master/PCF_Postcode'
 demo_youtube:
 demo_video: 
+model_support: true
+canvas_support: false
 authors:
   - josh_hetherington
 ---

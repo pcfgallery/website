@@ -7,6 +7,8 @@ categories:
   - email
 image: /assets/images/fileexplorer.png
 download: 'https://github.com/boudewijnsnoeren/PCF'
+model_support: true
+canvas_support: false
 authors:
   - boudewijn_snoeren
 ---

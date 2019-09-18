@@ -16,10 +16,12 @@ layout: default
 						<h5>
 							{{page.title}}
 						</h5>
+						{% if page.model_support == true %}
 						<span style="color: #742775; padding: 5px;">
 						<i class="fa fa-th-list" title="made for Model-driven Apps"></i>
 						<span style="color: #742775; font-weight:bold;">&nbsp;MODEL-DRIVEN APPS</span>
 						</span>
+						{% endif %}	
 						{% if page.canvas_support == true %}
 						<span style="color: #742775; padding: 5px;">
 						<i class="fa fa-paint-brush" title="made for Canvas Apps"></i>

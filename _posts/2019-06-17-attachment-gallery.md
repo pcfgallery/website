@@ -8,6 +8,8 @@ categories:
 image: /assets/images/attachmentgallery.jpg
 visit: 'https://www.dancingwithcrm.com/first-pcf-control/'
 download: 'https://github.com/OOlashyn/PCF-AttachmentGalleryControl'
+model_support: true
+canvas_support: false
 authors:
   - oleksandr_olashyn
 demo_video: /assets/videos/attachmentgallery.mp4

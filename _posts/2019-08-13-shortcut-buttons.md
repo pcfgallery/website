@@ -7,6 +7,8 @@ categories:
 image: /assets/images/shortcutbuttons.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/ShortcutButtons'
 demo_video: /assets/videos/shortcutbuttons.mp4
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

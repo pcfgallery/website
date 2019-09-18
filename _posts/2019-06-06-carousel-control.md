@@ -7,6 +7,8 @@ categories:
   - gallery
 image: /assets/images/carousel.png
 download: 'https://github.com/DynamicsNinja/PCF-Carousel-Control'
+model_support: true
+canvas_support: false
 authors:
   - ivan_ficko
 demo_video: /assets/videos/carousel.mp4

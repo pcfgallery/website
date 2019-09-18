@@ -8,6 +8,8 @@ categories:
 image: /assets/images/siret.jpg
 visit: 
 download: 'https://github.com/carfup/PCFControls'
+model_support: true
+canvas_support: false
 authors:
   - clement_olivier
 demo_gif: /assets/videos/siret.gif

@@ -7,6 +7,8 @@ categories:
 image: /assets/images/richtextcontrol.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/RichTextControl'
 demo_youtube: o0mAXpXGFRM
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

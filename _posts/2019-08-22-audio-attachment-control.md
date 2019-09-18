@@ -9,6 +9,8 @@ visit: 'https://d365spartan.wordpress.com/2019/08/21/powerapps-component-framewo
 download: 'https://github.com/vigneshr1236/PCF-365spartan-Custom-AudioAttachmentLivePreviewControl'
 demo_youtube:
 demo_video: /assets/videos/audioattachment.mp4
+model_support: true
+canvas_support: false
 authors:
   - vignesh_r
 ---

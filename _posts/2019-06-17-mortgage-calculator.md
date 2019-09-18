@@ -7,6 +7,8 @@ categories:
 image: /assets/images/mortgage.jpg
 visit: 
 download: 'https://github.com/jcnz/MortgageCalculator'
+model_support: true
+canvas_support: false
 authors:
   - jeffrey_chionh
 demo_video: /assets/videos/mortgage.mp4

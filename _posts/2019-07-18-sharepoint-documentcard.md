@@ -8,6 +8,8 @@ categories:
 image: /assets/images/sharepointcard.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/DS_SharePointDataCard'
 demo_youtube: G60RqrhdGB0
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

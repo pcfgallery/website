@@ -7,6 +7,8 @@ image: /assets/images/countdowntimer.png
 visit: 'http://365lyf.com/pcf-control-countdowntimer/'
 download: 'https://github.com/365lyf/PCFControls/tree/master/CountDownTimer'
 demo_youtube: F2B-ukK1dAc
+model_support: true
+canvas_support: false
 authors:
   - andrew_ly
 ---

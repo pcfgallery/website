@@ -8,6 +8,8 @@ image: /assets/images/addressautocomplete.jpg
 download: 'https://github.com/a33ik/GoogleAddressAutocomplete_PCF'
 demo_youtube:
 demo_video: /assets/videos/addressautocomplete.mp4
+model_support: true
+canvas_support: false
 authors:
   - andrew_butenko
 ---

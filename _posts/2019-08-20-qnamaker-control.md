@@ -11,6 +11,8 @@ visit: 'https://dhina.org/2019/08/19/my-first-pcf-control/'
 download: 'https://github.com/dhinag/pcf-qnamakercontrol'
 demo_youtube:
 demo_gif: /assets/videos/qnamaker.gif
+model_support: true
+canvas_support: false
 authors:
   - dhinakaran_gajavarathan
 ---

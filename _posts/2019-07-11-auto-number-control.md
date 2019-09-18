@@ -6,6 +6,8 @@ categories:
 image: /assets/images/autonumber.png
 visit: 'https://rajsekhar311.com/2019/07/12/auto-number-powerapp-custom-control/'
 download: 'https://github.com/rajsekhar311/Auto-Number-PCF-Control'
+model_support: true
+canvas_support: false
 authors:
   - phani_raja_sekhar
 ---

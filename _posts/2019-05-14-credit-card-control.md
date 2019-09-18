@@ -6,6 +6,8 @@ categories:
 image: /assets/images/creditcardcontrol.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/CreditCardControl'
 demo_youtube: ZuchaItFTYw
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

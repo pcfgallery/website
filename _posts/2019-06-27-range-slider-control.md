@@ -8,6 +8,7 @@ categories:
 image: /assets/images/range.png
 visit: 'https://www.dancingwithcrm.com/pcf-range-slider-control/'
 download: 'https://github.com/OOlashyn/PCF-RangeSliderControl'
+model_support: true
 canvas_support: true
 authors:
   - oleksandr_olashyn

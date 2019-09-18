@@ -7,6 +7,8 @@ categories:
 image: /assets/images/iban2.jpg
 visit: 'https://www.bendenblanken.com/powerapps-component-framework-iban-validator/'
 download: 'https://github.com/BendenBlanken/PCFIbanValidator'
+model_support: true
+canvas_support: false
 authors:
   - ben_den_blanken
 demo_gif: /assets/videos/iban2.gif

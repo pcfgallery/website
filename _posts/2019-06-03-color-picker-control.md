@@ -7,6 +7,8 @@ categories:
 image: /assets/images/colorpicker.png
 visit: 'https://srirambalajitech.blogspot.com/2019/06/color-picker-pcf-control.html'
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/ColorPicker'
+model_support: true
+canvas_support: false
 authors:
   - sriram_balaji
 ---

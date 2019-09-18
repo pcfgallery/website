@@ -8,6 +8,8 @@ categories:
 image: /assets/images/exchangerate.jpg
 download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/ExchangeRateControl'
 demo_youtube: SzZeOQf7OqI
+model_support: true
+canvas_support: false
 authors:
   - jose_aguilera
 ---

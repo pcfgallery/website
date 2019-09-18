@@ -8,6 +8,8 @@ categories:
 image: /assets/images/entitypermission.png
 visit: 
 download: 'https://github.com/glemis/EntityPermissionViewer'
+model_support: true
+canvas_support: false
 authors:
   - eric_sutter
 demo_video: 
