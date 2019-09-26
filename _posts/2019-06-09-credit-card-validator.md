@@ -4,8 +4,8 @@ metadate: hide
 categories:
   - credit card
 image: /assets/images/creditcardvalidator.png
-visit: 'https://community.dynamics.com/crm/b/briteglobalsolutions/posts/credit-card-validator-pcf-control'
-download: 'https://community.dynamics.com/crm/b/briteglobalsolutions/posts/credit-card-validator-pcf-control'
+visit: 'http://www.ariclevin.com/Blog/Post/credit-card-validator-pcf-control'
+download: 'http://www.ariclevin.com/Blog/Post/credit-card-validator-pcf-control'
 model_support: true
 canvas_support: false
 authors:
