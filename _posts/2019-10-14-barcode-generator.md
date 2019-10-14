@@ -13,4 +13,4 @@ authors:
   - allan_de_castro
 ---
 
-A control to generated a barcode from its text value. It supports multiple barcode formats and the visual aspect can be modified.
+A control to generate a barcode from a text value. It supports multiple barcode formats and the visual aspect can be modified.
