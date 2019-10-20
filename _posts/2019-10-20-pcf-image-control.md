@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - image
   - multiline
-image: /assets/images/pcfimagecontrol.jpg
+image: /assets/images/pcfimagecontrol.png
 visit: 
 download: 'https://github.com/cathalnoonan/d365-pcf-imagecontrol'
 model_support: true
