@@ -5,7 +5,7 @@ categories:
   - new zealand
   - nzbn
   - autocomplete
-image: /assets/images/nzcompany.jpg
+image: /assets/images/nzcompany.png
 visit: 
 download: 'https://github.com/garethcheyne/PCF-NZBN-AutoComplete'
 model_support: true
@@ -15,6 +15,7 @@ authors:
 ---
 
 A control to consume the API from <a target="_blank" href="https://www.nzbn.govt.nz">https://www.nzbn.govt.nz</a> and auto complete New Zealand registered companies data.
+
 You will need to obtain a token from <a target="_blank" href="https://api.business.govt.nz">https://api.business.govt.nz</a> first.
 
 Autopopulated fields are:
