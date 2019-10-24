@@ -1,5 +1,5 @@
 ---
-title: Tiny MCE Rich Text Editor
+title: TinyMCE Rich Text Editor
 metadate: hide
 categories:
   - multiline
