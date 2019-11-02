@@ -5,6 +5,22 @@ guido_preite:
   linkedin: guidopreite
   facebook:
   website: 'https://crmanswers.net'
+  
+alexey_shytikov:
+  name: Alexey Shytikov
+  twitter: shytikov
+  github: shytikov
+  linkedin: shytikov
+  facebook:
+  website:
+  
+crm_konsulterna:
+  name: CRM-Konsulterna
+  twitter: crmkonsulterna
+  github: crmkonsulterna
+  linkedin: crm-konsulterna
+  facebook: 
+  website: 'https://www.crmkonsulterna.se'
 
 ryan_james:
   name: Ryan James
