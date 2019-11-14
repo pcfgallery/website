@@ -15,4 +15,4 @@ authors:
   - pradesh_dhayalan
 ---
 
-A control to get all the annotations and renders as Document Card View which is built on Office UI Fabric.
+A control to get all the annotations and render them as a Document Card View (built on Office UI Fabric).
