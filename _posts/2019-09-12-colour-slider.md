@@ -4,6 +4,7 @@ metadate: hide
 categories:
   - boolean
   - slider
+  - two options
 image: /assets/images/booleanslider.jpg
 visit:
 download: 'https://github.com/jasonaalmeida/PCF_BooleanSlider'
