@@ -11,6 +11,7 @@ visit: 'https://andz88.wordpress.com/2019/10/23/new-pcf-tinymce-rich-text-editor
 download: 'https://github.com/andz88/PCF.TinyMCE'
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - andre_margono
 ---

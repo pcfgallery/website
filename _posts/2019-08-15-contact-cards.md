@@ -11,6 +11,7 @@ download: 'https://github.com/rajyraman/Office-UI-Fabric-Card'
 demo_video: /assets/videos/contactcards.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - natraj_yegnaraman
 ---

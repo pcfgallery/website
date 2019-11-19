@@ -9,6 +9,7 @@ download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/DS
 demo_youtube: 1c1OChnhgsA
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - jose_aguilera
 ---

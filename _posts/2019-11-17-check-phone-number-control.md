@@ -10,6 +10,7 @@ download: 'https://github.com/BenediktBergmann/PCF-Controls/tree/master/CheckPho
 demo_video: 
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - benedikt_bergmann
 ---

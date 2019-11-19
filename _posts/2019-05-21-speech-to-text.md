@@ -9,6 +9,7 @@ download: 'https://github.com/BenLBartle/PCF-Components'
 demo_youtube: LTrxk5THeV8
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - ben_bartle
 ---

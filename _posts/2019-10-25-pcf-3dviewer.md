@@ -10,6 +10,7 @@ download: 'https://github.com/dynamicscode/PCF-3DViewer'
 demo_video: /assets/videos/3dviewer.mp4
 model_support: true
 canvas_support: true
+license_defined: true
 authors:
   - aung_khaing
 ---

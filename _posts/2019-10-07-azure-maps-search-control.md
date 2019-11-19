@@ -11,6 +11,7 @@ download: 'https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead'
 demo_video: /assets/videos/azuremapssearch.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - manish_jain
 ---

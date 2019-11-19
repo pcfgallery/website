@@ -10,6 +10,7 @@ visit:
 download: 'https://github.com/rajyraman/Office-UI-Fabric-Date-Picker'
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - natraj_yegnaraman
 ---

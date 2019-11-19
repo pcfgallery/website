@@ -10,6 +10,7 @@ download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/Ex
 demo_youtube: SzZeOQf7OqI
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - jose_aguilera
 ---

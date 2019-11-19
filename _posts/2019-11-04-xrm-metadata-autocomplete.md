@@ -10,6 +10,7 @@ download: 'https://github.com/sabrish/XrmPowerControls.XrmMetadataAutoComplete'
 demo_gif: /assets/videos/xrmmetadata.gif
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - sabrish_ayyappan
 ---

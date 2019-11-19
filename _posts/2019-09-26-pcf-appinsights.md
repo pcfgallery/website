@@ -10,6 +10,7 @@ visit: 'https://www.powerappsguy.com/blog/using-azure-application-insights-to-mo
 download: 'https://github.com/jenschristianschroder/pcfAppInsights'
 model_support: true
 canvas_support: true
+license_defined: true
 authors:
   - jens_christian_schroder
 ---

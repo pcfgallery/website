@@ -8,6 +8,7 @@ download: 'https://github.com/jaguil3ra/PowerApps-KitControls/tree/master/src/Cr
 demo_youtube: ZuchaItFTYw
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - jose_aguilera
 ---

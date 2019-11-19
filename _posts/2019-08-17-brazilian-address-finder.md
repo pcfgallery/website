@@ -11,6 +11,7 @@ demo_youtube:
 demo_gif: 
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - michael_ferro_pereira
 ---

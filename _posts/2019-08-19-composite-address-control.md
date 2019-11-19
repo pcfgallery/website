@@ -10,6 +10,7 @@ demo_youtube:
 demo_video: /assets/videos/compositeaddress.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - andrew_butenko
 ---

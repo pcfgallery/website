@@ -10,6 +10,7 @@ visit: 'https://andz88.wordpress.com/2019/10/18/my-first-pcf-control-addressfind
 download: 'https://github.com/andz88/PCF.AddressFinderAU'
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - andre_margono
 demo_video: /assets/videos/auaddress.mp4

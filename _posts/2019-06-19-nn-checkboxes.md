@@ -10,6 +10,7 @@ visit:
 download: 'https://github.com/MscrmTools/PCF-Controls'
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - tanguy_touzard
 demo_gif: /assets/videos/nncheckboxes.gif

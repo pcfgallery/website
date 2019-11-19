@@ -11,6 +11,7 @@ demo_youtube:
 demo_video: /assets/videos/attachmentsgrid.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - ben_bartle
   - josh_hetherington

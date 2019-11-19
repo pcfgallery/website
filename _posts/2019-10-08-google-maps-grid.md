@@ -10,6 +10,7 @@ download: 'https://github.com/jasonaalmeida/PCF_GoogleMapsGrid'
 demo_video: /assets/videos/googlemapsgrid.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - jason_almeida
 ---

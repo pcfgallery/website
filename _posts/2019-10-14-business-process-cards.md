@@ -11,6 +11,7 @@ download: 'https://github.com/rajyraman/Office-UI-Fabric-Business-Process'
 demo_video: /assets/videos/businessprocesscards.mp4
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - natraj_yegnaraman
 ---

@@ -11,6 +11,7 @@ download: 'https://github.com/ryanmichaeljames/pcf-addressfinder-widget'
 demo_gif: /assets/videos/addressfinderwidget.gif
 model_support: true
 canvas_support: false
+license_defined: true
 authors:
   - ryan_james
 ---
