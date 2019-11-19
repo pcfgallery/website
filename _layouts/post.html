@@ -28,6 +28,12 @@ layout: default
 						<span style="color: #742775; font-weight:bold;">&nbsp;CANVAS APPS</span>
 						</span>
 						{% endif %}	
+						{% if page.license_defined == true %}
+						<span style="color: #742775; padding: 5px;">
+						<i class="fa fa-balance-scale" title="License is present"></i>
+						<span style="color: #742775; font-weight:bold;">&nbsp;LICENSE IS PRESENT</span>
+						</span>
+						{% endif %}	
 						<hr>						
 						{{ content }}
 								
