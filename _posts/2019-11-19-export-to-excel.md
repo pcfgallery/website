@@ -2,7 +2,8 @@
 title: Export to Excel
 metadate: hide
 categories:
-  - marquee
+  - export
+  - excel
 image: /assets/images/excelexport.jpg
 visit: 'https://www.bythedevs.com/post/export-to-excel-from-canvas-apps-in-power-apps-using-pcf'
 download: 'https://github.com/yashag2255/exportToExcel'
