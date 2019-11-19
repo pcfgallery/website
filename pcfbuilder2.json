@@ -10,6 +10,7 @@ layout: null
       "download": "{{ post.download }}",
       "author":"{{author_name}}",
       "model_support": {{post.model_support}},
-      "canvas_support": {{post.canvas_support}}
+      "canvas_support": {{post.canvas_support}},
+      "license_defined": {{post.license_defined}}
     }{% unless forloop.last %}, {% endunless %} {% endfor %}
 ]
