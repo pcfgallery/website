@@ -9,6 +9,7 @@ download: 'https://github.com/jeevarajan04/PCF-Sub-Business-Process-Flow'
 demo_youtube: hyWjpRwrsGc
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - jeevarajan_kumar
 ---

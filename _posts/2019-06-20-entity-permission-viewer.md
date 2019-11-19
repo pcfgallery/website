@@ -10,6 +10,7 @@ visit:
 download: 'https://github.com/glemis/EntityPermissionViewer'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - eric_sutter
 demo_video: 

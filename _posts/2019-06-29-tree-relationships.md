@@ -10,6 +10,7 @@ visit: 'https://www.itaintboring.com/dynamics-crm/more-checkboxes-in-pcf-as-a-tr
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/TreeRelationships'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - alex_shlega
 demo_gif: /assets/videos/tree.gif

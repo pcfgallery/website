@@ -9,6 +9,7 @@ download: 'https://github.com/yashag2255/marqueePCF'
 demo_video: /assets/videos/marquee.mp4
 model_support: false
 canvas_support: true
+license_defined: false
 authors:
   - yash_agarwal
 ---

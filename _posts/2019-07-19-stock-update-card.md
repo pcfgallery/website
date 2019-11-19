@@ -10,6 +10,7 @@ visit: 'https://www.dancingwithcrm.com/adaptive-cards-and-pcf/'
 download: 'https://github.com/OOlashyn/PCF-StockMarketCard'
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - oleksandr_olashyn
 ---

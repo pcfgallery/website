@@ -9,6 +9,7 @@ visit: 'http://srirambalajitech.blogspot.com/2019/06/meter-pcf-control.html'
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/Meter'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - sriram_balaji
 ---

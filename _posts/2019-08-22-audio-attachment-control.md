@@ -11,6 +11,7 @@ demo_youtube:
 demo_video: /assets/videos/audioattachment.mp4
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - vignesh_r
 ---

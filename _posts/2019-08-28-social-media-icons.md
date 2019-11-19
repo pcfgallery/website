@@ -11,6 +11,7 @@ demo_youtube: V-Ff7yPTijA
 demo_video: 
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - vignesh_r
 ---

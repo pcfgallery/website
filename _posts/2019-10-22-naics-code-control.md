@@ -8,6 +8,7 @@ visit: 'http://www.ariclevin.com/Blog/Post/create-naics-pcf-control-webapi'
 download: 'http://www.ariclevin.com/Blog/Post/create-naics-pcf-control-webapi'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - aric_levin
 ---

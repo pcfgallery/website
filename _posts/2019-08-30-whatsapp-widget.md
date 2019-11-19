@@ -8,6 +8,7 @@ visit: 'https://crmsimplesilly.wordpress.com/2019/08/30/powerapps-component-fram
 download: 'https://github.com/prasath2k4/WhatsAppWidget'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: ZLwS4NN5MFc

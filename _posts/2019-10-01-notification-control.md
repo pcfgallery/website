@@ -10,6 +10,7 @@ download: 'https://github.com/rsantos00/powerapps/tree/master/NotificationContro
 demo_video: /assets/videos/notificationcontrol.mp4
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - rui_santos
 ---

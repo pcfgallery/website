@@ -12,6 +12,7 @@ demo_youtube:
 demo_gif: /assets/videos/systemuseroverview.gif
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - vinicius_basile
 ---

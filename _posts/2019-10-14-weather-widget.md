@@ -10,6 +10,7 @@ download: 'https://github.com/Danz-maveRICK/PCF-Controls/tree/master/WeatherWidg
 demo_video: /assets/videos/weather.webm
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - danish_naglekar
 ---

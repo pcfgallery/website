@@ -13,6 +13,7 @@ demo_youtube: HpbAyuF4brw
 demo_gif: 
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - dhinakaran_gajavarathan
 ---

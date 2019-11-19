@@ -10,6 +10,7 @@ download: 'https://github.com/DynamicsNinja/PCF-Prefix-Suffix-Control'
 demo_gif: /assets/videos/prefixsuffix.gif
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - ivan_ficko
 ---

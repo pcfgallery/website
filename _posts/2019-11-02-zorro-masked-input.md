@@ -10,6 +10,7 @@ download: 'https://github.com/crmkonsulterna/zorro-masked-input'
 demo_gif: /assets/videos/zorromaskedinput.gif
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - alexey_shytikov
   - crm_konsulterna

@@ -9,6 +9,7 @@ visit: 'https://srirambalajitech.blogspot.com/2019/07/color-grid-pcf-control.htm
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/ColorGrid'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - sriram_balaji
 ---

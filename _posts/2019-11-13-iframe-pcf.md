@@ -9,6 +9,7 @@ download: 'https://github.com/yashag2255/iframePCF'
 demo_video: /assets/videos/pcfiframe.mp4
 model_support: false
 canvas_support: true
+license_defined: false
 authors:
   - yash_agarwal
 ---

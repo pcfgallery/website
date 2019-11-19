@@ -8,6 +8,7 @@ visit: 'https://crmsimplesilly.wordpress.com/2019/10/16/powerapps-component-fram
 download: 'https://github.com/prasath2k4/AnimatedProgressControl'
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: xa8kK7bkYEo

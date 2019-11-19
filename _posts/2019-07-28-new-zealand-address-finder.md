@@ -12,6 +12,7 @@ demo_youtube:
 demo_gif: /assets/videos/nzaddress.gif
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - sankalp_bansal
 ---

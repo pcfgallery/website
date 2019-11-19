@@ -10,6 +10,7 @@ download: 'https://github.com/ManirajKV/PCF'
 demo_youtube: 7FYqfcbvfh4
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - maniraj_kandasamy_vadivel
 ---

@@ -9,6 +9,7 @@ image: /assets/images/openfile.jpg
 download: 'https://github.com/jhetheringt7/PCF-CustomControl'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - josh_hetherington
 ---

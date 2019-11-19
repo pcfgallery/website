@@ -11,6 +11,7 @@ demo_youtube:
 demo_gif: /assets/videos/statusreasonkanban.gif
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - vinicius_basile
 ---

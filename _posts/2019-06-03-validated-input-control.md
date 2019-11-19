@@ -10,6 +10,7 @@ visit: 'https://www.itaintboring.com/dynamics-crm/pcf-controls-now-i-have-my-fir
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/ValidatedInputControl'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - alex_shlega
 ---

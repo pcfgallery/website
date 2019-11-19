@@ -9,6 +9,7 @@ download: 'https://pcf.gallery/assets/solutions/activitysummary.zip'
 demo_video: 
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - nijo_joseph
 ---

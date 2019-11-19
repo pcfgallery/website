@@ -10,6 +10,7 @@ download: 'https://www.linkedin.com/pulse/running-azure-immersive-reader-canvas-
 demo_youtube: iMcuEkD3FQ8
 model_support: true
 canvas_support: true
+license_defined: false
 authors:
   - fooshen_wu
 ---

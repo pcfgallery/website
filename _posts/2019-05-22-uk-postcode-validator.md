@@ -10,6 +10,7 @@ demo_youtube:
 demo_video: 
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - josh_hetherington
 ---

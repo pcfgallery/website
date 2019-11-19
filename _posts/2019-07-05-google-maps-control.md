@@ -8,6 +8,7 @@ image: /assets/images/googlemap.jpg
 download: 'https://github.com/codecprojects/PCFMapControl/'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - giles_forde
 ---

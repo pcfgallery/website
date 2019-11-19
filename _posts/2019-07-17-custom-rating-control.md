@@ -9,6 +9,7 @@ visit: 'https://crmindian.com/2019/07/17/custom-rating-control-using-pcf/'
 download: 'https://github.com/jeevarajan04/PCF-Customizable-Rating-Control'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - jeevarajan_kumar
 ---

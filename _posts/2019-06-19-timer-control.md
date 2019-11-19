@@ -8,6 +8,7 @@ visit: 'https://crmsimplesilly.wordpress.com/2019/06/19/powerapps-component-fram
 download: 'https://github.com/prasath2k4/TimerControl'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: JbOTo6oPafM

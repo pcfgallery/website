@@ -11,6 +11,7 @@ download: 'https://github.com/jeevarajan04/PCF-Rich-txt-Editor-with-chart-and-UM
 demo_video: /assets/videos/richtextchartuml.mp4
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - jeevarajan_kumar
 ---

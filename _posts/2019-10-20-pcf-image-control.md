@@ -9,6 +9,7 @@ visit:
 download: 'https://github.com/cathalnoonan/d365-pcf-imagecontrol'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - cathal_noonan
 demo_video: /assets/videos/pcfimagecontrol.mp4

@@ -9,6 +9,7 @@ visit:
 download: 'https://github.com/jcnz/MortgageCalculator'
 model_support: true
 canvas_support: false
+license_defined: false
 authors:
   - jeffrey_chionh
 demo_video: /assets/videos/mortgage.mp4
