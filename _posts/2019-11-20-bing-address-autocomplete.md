@@ -11,7 +11,7 @@ download: 'https://github.com/acieslik/PCF.BingAddressAutocomplete'
 demo_gif: /assets/videos/bingaddress.gif
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - andreas_cieslik
 ---
