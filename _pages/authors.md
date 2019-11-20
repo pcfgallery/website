@@ -18,6 +18,7 @@ permalink: "/authors"
                     {{ author[1].name }}
 					{% if author[1].twitter %}&nbsp;&nbsp;<a target="_blank" href="https://www.twitter.com/{{author[1].twitter}}"><i class="fa fa-twitter"></i></a>{% endif %}
 					{% if author[1].linkedin %}&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/{{author[1].linkedin}}/"><i class="fa fa-linkedin"></i></a>{% endif %}
+			                {% if author[1].linkedin_company %}&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/company/{{author[1].linkedin_company}}/"><i class="fa fa-linkedin"></i></a>{% endif %}
 					{% if author[1].github %}&nbsp;&nbsp;<a target="_blank" href="https://github.com/{{author[1].github}}"><i class="fa fa-github"></i></a>{% endif %}
 					{% if author[1].website %}&nbsp;&nbsp;<a target="_blank" href="{{author[1].website}}"><i class="fa fa-rss"></i></a>{% endif %}
 	            </h3>
