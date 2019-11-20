@@ -18,7 +18,7 @@ veritec:
   name: Veritec
   twitter: veritecaus
   github: veritecaus
-  linkedin: veritec
+  linkedin_company: veritec
   facebook:
   website: 'https://www.veritec.com.au'
 
@@ -98,7 +98,7 @@ crm_konsulterna:
   name: CRM-Konsulterna
   twitter: crmkonsulterna
   github: crmkonsulterna
-  linkedin: crm-konsulterna
+  linkedin_company: crm-konsulterna
   facebook: 
   website: 'https://www.crmkonsulterna.se'
 
