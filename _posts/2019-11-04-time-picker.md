@@ -10,7 +10,7 @@ download: 'https://github.com/drivardxrm/TimePicker.PCF'
 demo_video: /assets/videos/timepicker.mp4
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - david_rivard
 ---
