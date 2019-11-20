@@ -15,5 +15,5 @@ authors:
   - trevor_stephenson
   - veritec
 ---
-An control to validate an address that utilises the <a target="blank" href="https://www.edq.com/documentation/apis/address-validate/global-intuitive/">Experian Global Intuitive Address Validation service</a>.
+A control to validate an address using the <a target="blank" href="https://www.edq.com/documentation/apis/address-validate/global-intuitive/">Experian Global Intuitive Address Validation service</a>.
 Utilising Experian, this control is capable of validating addresses from a <a target="blank" href="https://www.edq.com/documentation/apis/address-validate/global-intuitive/#supported-countries-2">large number of countries</a>.
