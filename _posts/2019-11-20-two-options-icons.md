@@ -11,7 +11,7 @@ download: 'https://github.com/drivardxrm/IconTwoOption.PCF'
 demo_video: 
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - david_rivard
 ---
