@@ -10,7 +10,7 @@ download: 'https://github.com/DynamicsNinja/PCF-Energy-Efficiency-Rating-Control
 demo_gif: /assets/videos/energyrating.gif
 model_support: true
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - ivan_ficko
 ---

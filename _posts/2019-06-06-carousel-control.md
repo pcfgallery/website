@@ -9,7 +9,7 @@ image: /assets/images/carousel.png
 download: 'https://github.com/DynamicsNinja/PCF-Carousel-Control'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - ivan_ficko
 demo_video: /assets/videos/carousel.mp4
