@@ -10,7 +10,7 @@ download: 'https://github.com/Eickhel/PowerApps-samples/tree/master/PowerFont/PC
 demo_gif: /assets/videos/powerfont.gif
 model_support: false
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - eickhel_mendoza
 ---
