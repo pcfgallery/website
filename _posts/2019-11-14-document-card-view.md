@@ -11,7 +11,7 @@ download: 'https://github.com/PradeshDhayalan/D365-PCF-Controls/tree/master/Docu
 demo_youtube: wSzuI4y1a6M
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - pradesh_dhayalan
 ---
