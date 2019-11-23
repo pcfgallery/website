@@ -10,7 +10,7 @@ visit: 'https://srirambalajitech.blogspot.com/2019/06/month-picker-pcf-control.h
 download: 'https://github.com/srirambalajigit/PCFControls/tree/master/MonthPicker'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - sriram_balaji
 ---
