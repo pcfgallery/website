@@ -6,7 +6,7 @@ categories:
   - address
 image: /assets/images/weather.png
 visit: 
-download: 'https://github.com/Danz-maveRICK/PCF-Controls/tree/master/WeatherWidget'
+download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/WeatherWidget'
 demo_video: /assets/videos/weather.webm
 model_support: true
 canvas_support: true
