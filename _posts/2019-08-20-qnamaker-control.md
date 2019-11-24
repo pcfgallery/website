@@ -13,7 +13,7 @@ demo_youtube:
 demo_gif: /assets/videos/qnamaker.gif
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - dhinakaran_gajavarathan
 ---
