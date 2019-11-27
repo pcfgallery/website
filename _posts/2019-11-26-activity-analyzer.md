@@ -10,7 +10,7 @@ download: 'https://github.com/irah2008/ActivtyAnalyzer'
 demo_youtube: 
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - hari_narayanan_kumar
 ---
