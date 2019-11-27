@@ -14,4 +14,4 @@ authors:
   - tanguy_touzard
 ---
 
-A control to allow the users to add aswitch for a Two Options attribute and apply the color and shape they want to fit with the color of the company.
+A control to allow the users to add a switch for Two Options attributes with the possibility to change color and shape.
