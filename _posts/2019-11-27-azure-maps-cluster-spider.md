@@ -10,7 +10,7 @@ download: 'https://github.com/alano444/PCFAzureMapCluststerSpider'
 demo_video: /assets/videos/spidercluster.mp4
 model_support: true
 canvas_support: false
-license_defined: true
+license_defined: false
 authors:
   - alan_o_keeffe
 ---
