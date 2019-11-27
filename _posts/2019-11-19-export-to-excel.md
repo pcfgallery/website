@@ -10,7 +10,7 @@ download: 'https://github.com/yashag2255/exportToExcel'
 demo_video: /assets/videos/excelexport.mp4
 model_support: false
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - yash_agarwal
 ---
