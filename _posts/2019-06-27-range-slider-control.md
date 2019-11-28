@@ -10,7 +10,7 @@ visit: 'https://www.dancingwithcrm.com/pcf-range-slider-control/'
 download: 'https://github.com/OOlashyn/PCF-RangeSliderControl'
 model_support: true
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - oleksandr_olashyn
 demo_video: /assets/videos/range.mp4
