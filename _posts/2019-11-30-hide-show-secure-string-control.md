@@ -14,4 +14,4 @@ authors:
   - benedikt_bergmann
 ---
 
-A Control to hide or show the content of the Single line of text.
+A control to hide or show the content of a single line of text field.
