@@ -14,4 +14,4 @@ authors:
   - ramakrishnan_raman
 ---
 
-A control to generatore a QR Code for the current record.
+A control to generate a QR Code for the current record.
