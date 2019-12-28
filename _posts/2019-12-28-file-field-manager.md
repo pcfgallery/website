@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - file
 image: /assets/images/filemanager.png
-visit: 
+visit: 'https://stuffandtacos.azurewebsites.net/2019/12/27/file-field-manager-for-model-driven-app/'
 download: 'https://github.com/carfup/PCFControls'
 model_support: true
 canvas_support: false
