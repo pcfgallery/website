@@ -6,7 +6,7 @@ categories:
 image: /assets/images/whitelistipaddress.jpg
 visit: 'https://www.bythedevs.com/post/pcf-to-secure-power-apps-access-by-white-listing-ip-addresses'
 download: 'https://github.com/yashag2255/WhiteList-IP-Address-in-Canvas-Apps'
-demo_gif: /assets/videos/whitelistipaddress.mp4
+demo_video: /assets/videos/whitelistipaddress.mp4
 model_support: false
 canvas_support: true
 license_defined: true
