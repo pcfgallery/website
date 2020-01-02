@@ -5,7 +5,7 @@ categories:
   - activity
 image: /assets/images/activitysummary.png
 visit: 'https://nijoscrmworld.wordpress.com/2019/11/11/activity-summary-pcf-for-model-driven-apps/'
-download: 'https://pcf.gallery/assets/solutions/activitysummary.zip'
+download: 'https://github.com/nijos/ActivitySummary'
 demo_video: 
 model_support: true
 canvas_support: false
