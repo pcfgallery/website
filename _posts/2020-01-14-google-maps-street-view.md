@@ -1,5 +1,5 @@
 ---
-title: Google Maps Marker Clusterer
+title: Google Maps Street View
 metadate: hide
 categories:
   - google maps
