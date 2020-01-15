@@ -2,7 +2,7 @@
 title: Attachment Uploader
 metadate: hide
 categories:
-  - attachmentd
+  - attachments
 image: /assets/images/attachmentuploader.jpg
 visit: 
 download: 'https://github.com/ramarao9/AttachmentUploader'
