@@ -12,7 +12,7 @@ model_support: true
 canvas_support: false
 license_defined: true
 authors:
-  - cristoph_meyer
+  - christoph_meyer
 ---
 
 A control that enables a Dynamics 365 Rich text editor for Unified Interface.
