@@ -14,4 +14,4 @@ license_defined: false
 authors:
   - adnan_riaz_gondal
 ---
-A control to render a view of records on Google Maps using the location information (lat/long) againt each record.
+A control to render a view of records on Google Maps using the location information (lat/long) against each record.
