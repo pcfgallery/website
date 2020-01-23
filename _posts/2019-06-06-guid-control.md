@@ -7,7 +7,7 @@ image: /assets/images/guid.png
 download: 'https://github.com/nishantranacrm/PCFControls/tree/master/PCFGuidControl/GuidPCFControl'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - nishant_rana
 ---
