@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - bing
   - maps
-image: /assets/images/bingmaps.png
+image: /assets/images/bingmaps.jpg
 visit: 'https://www.richardawilson.com/2020/01/bing-maps-pcf-control.html'
 download: 'https://github.com/rwilson504/PCFControls/tree/master/BingMapsGrid'
 demo_gif: /assets/videos/bingmaps.gif
