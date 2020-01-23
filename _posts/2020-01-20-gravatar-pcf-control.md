@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - gravatar
   - icon
-image: /assets/images/gravatar.jpg
+image: /assets/images/gravatar.png
 visit: 'https://nishantrana.me/2020/01/20/very-simple-pcf-control-to-show-gravatar/'
 download: 'https://github.com/nishantranacrm/GravatarPCFControl'
 model_support: true
