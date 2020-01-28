@@ -1,4 +1,4 @@
- ---
+---
 title: Smart Grid
 metadate: hide
 categories:
