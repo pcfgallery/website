@@ -1,4 +1,4 @@
- ---
+---
 title: Face Component
 metadate: hide
 categories:
