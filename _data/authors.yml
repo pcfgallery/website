@@ -6,6 +6,22 @@ guido_preite:
   facebook:
   website: 'https://crmanswers.net'
 
+orbis_ag:
+  name: ORBIS AG
+  twitter: ORBIS_AG
+  github: ORBISAG
+  linkedin_company: orbis-ag
+  facebook:
+  website: 'https://www.orbis.de'
+
+diana_birkelbach:
+  name: Diana Birkelbach
+  twitter: brasov2de
+  github: brasov2de
+  linkedin: diana-birkelbach
+  facebook:
+  website: 'https://dianabirkelbach.wordpress.com'
+
 aldo_gillone:
   name: Aldo Gillone
   twitter: AldoGillone
