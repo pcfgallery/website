@@ -10,7 +10,7 @@ demo_youtube:
 demo_video: /assets/videos/multitag.mp4
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - shravya_p
 ---
