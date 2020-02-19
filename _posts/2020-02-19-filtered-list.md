@@ -2,7 +2,7 @@
 title: Filtered List
 metadate: hide
 categories:
-  - attachments
+  - list
 image: /assets/images/filteredlist.png
 demo_youtube: N-bYbCZFH0I
 visit: 
