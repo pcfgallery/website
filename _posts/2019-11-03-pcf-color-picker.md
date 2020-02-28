@@ -10,7 +10,7 @@ download: 'https://github.com/rwilson504/PCFControls/tree/master/ColorPicker'
 demo_gif: /assets/videos/pcfcolorpicker.gif
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - richard_wilson
 ---
