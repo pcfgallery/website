@@ -9,7 +9,7 @@ visit: 'https://www.itaintboring.com/dynamics-crm/a-pcf-subgrid-to-check-off-rel
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/CheckBoxList'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - alex_shlega
 demo_gif: /assets/videos/checkboxlist.gif
