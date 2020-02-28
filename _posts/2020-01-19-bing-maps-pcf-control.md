@@ -10,7 +10,7 @@ download: 'https://github.com/rwilson504/PCFControls/tree/master/BingMapsGrid'
 demo_gif: /assets/videos/bingmaps.gif
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - richard_wilson
 ---
