@@ -9,7 +9,7 @@ visit: 'https://www.itaintboring.com/dynamics-crm/is-it-a-multiselect-optionset-
 download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Controls/NToNMultiSelect'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - alex_shlega
 demo_gif: /assets/videos/ntonmultiselect.gif
