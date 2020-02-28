@@ -11,7 +11,7 @@ download: 'https://github.com/jenschristianschroder/pcfAzureMaps'
 demo_video: /assets/videos/pcfazuremaps.mp4
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - jens_christian_schroder
 ---
