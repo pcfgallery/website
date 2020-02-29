@@ -10,7 +10,7 @@ visit:
 download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/HoverDetailsList'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - danish_naglekar
 ---
