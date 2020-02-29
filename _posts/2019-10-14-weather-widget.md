@@ -10,7 +10,7 @@ download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/WeatherWid
 demo_video: /assets/videos/weather.webm
 model_support: true
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - danish_naglekar
 ---
