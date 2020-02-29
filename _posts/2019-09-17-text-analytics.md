@@ -11,7 +11,7 @@ download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/TextAnalyt
 demo_video: /assets/videos/textanalytics.mp4
 model_support: true
 canvas_support: true
-license_defined: false
+license_defined: true
 authors:
   - danish_naglekar
 ---
