@@ -10,7 +10,7 @@ visit:
 download: 'https://github.com/allandecastro/PhoneNumberByCountry'
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - allan_de_castro
 ---
