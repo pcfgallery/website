@@ -10,7 +10,7 @@ download: 'https://github.com/gonadn/PCF_GoogleMapsStreetViewComponent'
 demo_youtube:
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - adnan_riaz_gondal
 ---
