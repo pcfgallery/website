@@ -10,7 +10,7 @@ download: 'https://github.com/jeromebq/PCF_AddressAPI'
 demo_gif: /assets/videos/addressapi.gif
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - jerome_becu
 ---
