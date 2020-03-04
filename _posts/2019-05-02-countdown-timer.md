@@ -9,7 +9,7 @@ download: 'https://github.com/365lyf/PCFControls/tree/master/CountDownTimer'
 demo_youtube: F2B-ukK1dAc
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - andrew_ly
 ---
