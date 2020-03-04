@@ -10,7 +10,7 @@ download: 'https://github.com/365lyf/PCFControls/tree/master/NotificationPulsing
 demo_youtube: UzStHZ2Bz20
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - andrew_ly
 ---
