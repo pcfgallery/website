@@ -9,7 +9,7 @@ download: 'https://github.com/nijos/ActivitySummary'
 demo_video: 
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - nijo_joseph
 ---
