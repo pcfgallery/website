@@ -10,7 +10,7 @@ download: 'https://github.com/365lyf/PCFControls/tree/master/ProgressBar'
 demo_youtube: -l6mnI6K9kc
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - andrew_ly
 ---
