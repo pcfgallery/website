@@ -14,4 +14,4 @@ authors:
   - ivan_ficko
 demo_gif: /assets/videos/urlimagecontrol.gif
 ---
-A Control where you can show the image from the URL that is stored in a single line of text field.
+A control where you can show an image from the URL that is stored inside a single line of text field.
