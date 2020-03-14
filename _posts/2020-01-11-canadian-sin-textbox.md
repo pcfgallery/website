@@ -10,7 +10,7 @@ download: 'https://github.com/dotnetprog/PCF-CanadianSINTextBox'
 demo_video: 
 model_support: true
 canvas_support: false
-license_defined: false
+license_defined: true
 authors:
   - francois_desjardins_nadeau
 ---
