@@ -2,7 +2,7 @@
 title: d365MaskedTextBox
 metadate: hide
 categories:
-  - datetime
+  - masked input
 image: /assets/images/d365maskedtextbox.png
 visit: 
 download: 'https://github.com/rexkenley/d365MaskedTextBox'
