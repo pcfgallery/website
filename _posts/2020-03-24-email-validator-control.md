@@ -14,4 +14,4 @@ authors:
   - nishant_rana
 ---
 
-A control that uses the <a target="_blank href="https://rapidapi.com/pozzad/api/email-validator-1/details">Email Validator API</a> to check email for length and accepted characters.
+A control that uses the <a target="_blank" href="https://rapidapi.com/pozzad/api/email-validator-1/details">Email Validator API</a> to check email for length and accepted characters.
