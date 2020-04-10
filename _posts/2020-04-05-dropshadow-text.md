@@ -2,7 +2,7 @@
 title: DropShadow Text
 metadate: hide
 categories:
-  - spinning
+  - shadow
   - text
 image: /assets/images/dropshadowtext.jpg
 demo_gif: /assets/videos/dropshadowtext.gif
