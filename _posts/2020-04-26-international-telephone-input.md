@@ -8,8 +8,8 @@ categories:
 image: /assets/images/internationalphone.png
 download: 'https://github.com/OGcanviz/IntlTelInputPCF'
 demo_gif: /assets/videos/internationalphone.gif
-model_support: true
-canvas_support: false
+model_support: false
+canvas_support: true
 license_defined: true
 authors:
   - alex_chen
