@@ -9,6 +9,7 @@ download: 'https://github.com/prasath2k4/AnimatedProgressControl'
 model_support: true
 canvas_support: true
 license_defined: false
+managed_solution: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: xa8kK7bkYEo

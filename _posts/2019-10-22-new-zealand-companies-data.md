@@ -11,6 +11,7 @@ download: 'https://github.com/garethcheyne/PCF-NZBN-AutoComplete'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - gareth_cheyne
 ---

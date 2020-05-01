@@ -11,6 +11,7 @@ demo_video: /assets/videos/optionseticons.mp4
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - david_rivard
 ---

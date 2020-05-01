@@ -12,6 +12,7 @@ demo_youtube: wSzuI4y1a6M
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - pradesh_dhayalan
 ---

@@ -10,6 +10,7 @@ download: 'https://github.com/Nicokirr/GantProgressTimeline'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - nicolas_kirrmann
 ---

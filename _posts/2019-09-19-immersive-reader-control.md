@@ -11,6 +11,7 @@ demo_youtube: iMcuEkD3FQ8
 model_support: true
 canvas_support: true
 license_defined: false
+managed_solution: false
 authors:
   - fooshen_wu
 ---

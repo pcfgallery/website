@@ -10,6 +10,7 @@ demo_youtube: hyWjpRwrsGc
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - jeevarajan_kumar
 ---

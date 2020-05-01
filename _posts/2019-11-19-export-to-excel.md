@@ -11,6 +11,7 @@ demo_video: /assets/videos/excelexport.mp4
 model_support: false
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - yash_agarwal
 ---

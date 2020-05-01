@@ -11,6 +11,7 @@ demo_video: /assets/images/addressvalidation.mp4
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - trevor_stephenson
   - veritec

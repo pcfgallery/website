@@ -12,6 +12,7 @@ demo_video: /assets/videos/pcfazuremaps.mp4
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - jens_christian_schroder
 ---

@@ -10,6 +10,7 @@ download: 'https://github.com/MscrmTools/PCF-Controls'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - tanguy_touzard
 ---

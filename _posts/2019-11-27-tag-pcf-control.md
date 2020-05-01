@@ -9,6 +9,7 @@ download: 'https://github.com/durgaprasadkatari/TagControl.PCF'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - durgaprasad_katari
 ---

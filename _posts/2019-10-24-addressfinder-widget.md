@@ -12,6 +12,7 @@ demo_gif: /assets/videos/addressfinderwidget.gif
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - ryan_james
 ---

@@ -11,6 +11,7 @@ demo_video: /assets/videos/weather.webm
 model_support: true
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - danish_naglekar
 ---
