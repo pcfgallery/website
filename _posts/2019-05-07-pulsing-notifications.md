@@ -11,6 +11,7 @@ demo_youtube: UzStHZ2Bz20
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - andrew_ly
 ---

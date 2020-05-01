@@ -11,6 +11,7 @@ download: 'https://github.com/OOlashyn/PCF-RangeSliderControl'
 model_support: true
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - oleksandr_olashyn
 demo_video: /assets/videos/range.mp4

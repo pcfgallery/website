@@ -11,6 +11,7 @@ demo_gif: /assets/videos/cp.gif
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - cesar_calvo_cobo
 ---

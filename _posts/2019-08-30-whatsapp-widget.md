@@ -9,6 +9,7 @@ download: 'https://github.com/prasath2k4/WhatsAppWidget'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: ZLwS4NN5MFc

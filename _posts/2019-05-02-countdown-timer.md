@@ -10,6 +10,7 @@ demo_youtube: F2B-ukK1dAc
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - andrew_ly
 ---

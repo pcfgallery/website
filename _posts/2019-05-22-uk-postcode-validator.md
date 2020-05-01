@@ -11,6 +11,7 @@ demo_video:
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - josh_hetherington
 ---

@@ -10,6 +10,7 @@ download: 'https://github.com/srirambalajigit/PCFControls/tree/master/Meter'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - sriram_balaji
 ---

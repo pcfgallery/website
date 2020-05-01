@@ -9,6 +9,7 @@ download: 'https://github.com/prasath2k4/TimerControl'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - ramprasath_ramamurthi
 demo_youtube: JbOTo6oPafM

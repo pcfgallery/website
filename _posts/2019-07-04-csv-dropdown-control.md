@@ -9,6 +9,7 @@ download: 'https://github.com/DynamicsNinja/PCF-Csv-Dropdown-Control'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - ivan_ficko
 demo_video: /assets/videos/csvdropdown.mp4

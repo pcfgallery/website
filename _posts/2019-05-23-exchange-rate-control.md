@@ -11,6 +11,7 @@ demo_youtube: SzZeOQf7OqI
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - jose_aguilera
 ---

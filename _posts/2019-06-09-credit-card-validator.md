@@ -9,6 +9,7 @@ download: 'http://www.ariclevin.com/Blog/Post/credit-card-validator-pcf-control'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - aric_levin
 demo_gif: /assets/videos/creditcardvalidator.gif

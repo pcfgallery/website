@@ -10,6 +10,7 @@ download: 'https://github.com/BendenBlanken/PCFIbanValidator'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - ben_den_blanken
 demo_gif: /assets/videos/iban2.gif

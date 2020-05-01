@@ -9,6 +9,7 @@ download: 'https://github.com/MannyGrewal/CRM.Timeline'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - manny_grewal
 demo_gif: /assets/videos/timeline.gif

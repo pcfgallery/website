@@ -10,6 +10,7 @@ demo_youtube: LTrxk5THeV8
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - ben_bartle
 ---
