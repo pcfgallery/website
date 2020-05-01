@@ -10,7 +10,7 @@ download: 'https://github.com/rajyraman/Image-Metadata-PCF'
 model_support: true
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - natraj_yegnaraman
 ---

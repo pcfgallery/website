@@ -12,7 +12,7 @@ demo_video: /assets/videos/contactcards.mp4
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - natraj_yegnaraman
 ---
