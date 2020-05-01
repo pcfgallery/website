@@ -10,6 +10,7 @@ download: 'https://github.com/ramimounla/FilteredList'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - rami_mounla
 ---

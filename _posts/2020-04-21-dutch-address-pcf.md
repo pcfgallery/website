@@ -10,6 +10,7 @@ download: 'https://github.com/vriesdea/DutchAddressPCF'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - andreas_de_vries
 demo_gif: 

@@ -11,6 +11,7 @@ demo_gif: /assets/videos/iframe4canvas.gif
 model_support: false
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - vinicius_basile
 ---

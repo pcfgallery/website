@@ -11,6 +11,7 @@ demo_video: /assets/videos/facecomponent.mp4
 model_support: true
 canvas_support: true
 license_defined: false
+managed_solution: false
 authors:
   - rui_santos
 ---

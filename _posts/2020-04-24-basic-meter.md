@@ -11,6 +11,7 @@ download: 'https://github.com/briangre/PCF_BasicMeter'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - brian_gregor
 ---

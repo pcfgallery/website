@@ -11,6 +11,7 @@ download: 'https://github.com/TBag/power-apps-copy-text-to-clipboard'
 model_support: false
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - todd_baginski
 ---

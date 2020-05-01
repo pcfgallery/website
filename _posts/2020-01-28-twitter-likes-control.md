@@ -10,6 +10,7 @@ download: 'https://github.com/nishantranacrm/PCFTwitterLikesControl'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - nishant_rana
 ---

@@ -9,6 +9,7 @@ download: 'https://github.com/aaronric/PCFControls/tree/master/EmailAddressContr
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - aaron_richards
 demo_gif: /assets/videos/emailaddresscontrol.gif

@@ -10,6 +10,7 @@ demo_youtube: VbQ7uN1K_-w
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - andrew_ly
 ---

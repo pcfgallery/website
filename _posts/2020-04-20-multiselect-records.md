@@ -11,6 +11,7 @@ download: 'https://github.com/victorsolaya/Multiselect_Records_PCF'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - victor_sanchez
 demo_gif: /assets/videos/multiselectrecords.gif

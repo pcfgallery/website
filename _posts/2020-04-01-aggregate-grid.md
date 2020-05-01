@@ -11,6 +11,7 @@ demo_youtube: K7JF1nePzgo
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - nijo_joseph
 ---

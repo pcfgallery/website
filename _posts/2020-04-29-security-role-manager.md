@@ -11,6 +11,7 @@ download: 'https://github.com/cathalnoonan/d365-pcf-securityrolemanager'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - cathal_noonan
 ---

@@ -11,6 +11,7 @@ demo_gif: /assets/videos/bingmaps.gif
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - richard_wilson
 ---

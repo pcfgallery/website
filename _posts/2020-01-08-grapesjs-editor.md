@@ -12,6 +12,7 @@ demo_youtube:
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - hari_narayanan_kumar
 ---

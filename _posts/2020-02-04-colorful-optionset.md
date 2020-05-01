@@ -11,6 +11,7 @@ download: 'https://github.com/ORBISAG/ORBIS.PCF.ColorfulOptionset'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - diana_birkelbach
   - orbis_ag

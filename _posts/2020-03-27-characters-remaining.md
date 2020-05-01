@@ -10,6 +10,7 @@ download: 'https://github.com/cathalnoonan/d365-pcf-charactersremaining'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - cathal_noonan
 demo_gif: /assets/videos/charactersremaining.gif

@@ -11,6 +11,7 @@ download: 'https://github.com/DynamicsNinja/PCF-Url-Image-List-Control'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - ivan_ficko
 demo_gif: /assets/videos/urlimagelistcontrol.gif

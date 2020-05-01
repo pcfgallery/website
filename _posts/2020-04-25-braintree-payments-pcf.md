@@ -11,6 +11,7 @@ download: 'https://github.com/andrew-grischenko/BraintreePaymentsPCF'
 model_support: false
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - andrew_grischenko
 ---

@@ -10,6 +10,7 @@ download: 'https://github.com/prasath2k4/PCFStickyNotes'
 model_support: true
 canvas_support: false
 license_defined: false
+managed_solution: false
 authors:
   - ramprasath_ramamurthi
 ---

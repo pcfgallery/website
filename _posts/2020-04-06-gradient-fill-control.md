@@ -12,6 +12,7 @@ download: 'https://github.com/jenschristianschroder/PCF-Gradient-Fill/tree/maste
 model_support: false
 canvas_support: true
 license_defined: true
+managed_solution: false
 authors:
   - jens_christian_schroder
 ---

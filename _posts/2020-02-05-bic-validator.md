@@ -10,6 +10,7 @@ download: 'https://github.com/carfup/PCFControls'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - clement_olivier
 demo_gif: /assets/videos/bicvalidator.gif

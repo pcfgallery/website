@@ -10,6 +10,7 @@ download: 'https://github.com/mehmetseckin/TimeZoneDisplay'
 model_support: true
 canvas_support: false
 license_defined: true
+managed_solution: false
 authors:
   - mehmet_seckin
 ---
