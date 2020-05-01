@@ -11,7 +11,7 @@ download: 'https://github.com/andrew-grischenko/StripePaymentsPCF'
 model_support: false
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - andrew_grischenko
 ---
