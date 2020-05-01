@@ -11,7 +11,7 @@ demo_gif: /assets/videos/prefixsuffix.gif
 model_support: true
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - ivan_ficko
 ---
