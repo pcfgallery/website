@@ -11,7 +11,7 @@ demo_gif:
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - richard_wilson
 ---

@@ -10,7 +10,7 @@ download: 'https://github.com/rwilson504/PCFControls/tree/master/DetailListGrid'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - richard_wilson
 ---

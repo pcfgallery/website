@@ -11,7 +11,7 @@ download: 'https://github.com/rwilson504/PCFControls/tree/master/Calendar'
 model_support: true
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - richard_wilson
 ---
