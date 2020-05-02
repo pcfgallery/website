@@ -11,7 +11,7 @@ download: 'https://github.com/aboodh95/GoogleMapLocationPCF'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - abdul_mounem_hamwi
 ---
