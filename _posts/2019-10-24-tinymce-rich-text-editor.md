@@ -12,7 +12,7 @@ download: 'https://github.com/andz88/PCF.TinyMCE'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - andre_margono
 ---

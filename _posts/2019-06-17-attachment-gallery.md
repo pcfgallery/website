@@ -11,7 +11,7 @@ download: 'https://github.com/OOlashyn/PCF-AttachmentGalleryControl'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - oleksandr_olashyn
 demo_video: /assets/videos/attachmentgallery.mp4

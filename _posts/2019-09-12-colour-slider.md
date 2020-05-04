@@ -12,7 +12,7 @@ demo_gif: /assets/videos/booleanslider.gif
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - jason_almeida
 ---

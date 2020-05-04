@@ -9,7 +9,7 @@ download: 'https://github.com/rajsekhar311/Auto-Number-PCF-Control'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - phani_raja_sekhar
 ---

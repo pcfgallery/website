@@ -11,7 +11,7 @@ demo_gif: /assets/videos/internationalphone.gif
 model_support: false
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - alex_chen
   - canviz

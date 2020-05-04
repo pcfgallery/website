@@ -10,7 +10,7 @@ download: 'https://github.com/rameelkhan/Apply-Regex-Validation'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - rameel_khan
 ---

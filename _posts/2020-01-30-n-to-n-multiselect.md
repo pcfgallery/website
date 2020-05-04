@@ -10,7 +10,7 @@ download: 'https://github.com/ashlega/ITAintBoring.PCFControls/tree/master/Contr
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - alex_shlega
 demo_gif: /assets/videos/ntonmultiselect.gif

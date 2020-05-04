@@ -10,7 +10,7 @@ download: 'https://github.com/PuchalapalliShravya/WheelColorPicker-PCF-Control'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - shravya_p
 ---

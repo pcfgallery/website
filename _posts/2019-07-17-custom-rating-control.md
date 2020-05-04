@@ -10,7 +10,7 @@ download: 'https://github.com/jeevarajan04/PCF-Customizable-Rating-Control'
 model_support: true
 canvas_support: false
 license_defined: false
-managed_solution: false
+managed_solution: true
 authors:
   - jeevarajan_kumar
 ---

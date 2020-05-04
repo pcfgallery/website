@@ -10,7 +10,7 @@ demo_video: /assets/videos/pcfiframe.mp4
 model_support: false
 canvas_support: true
 license_defined: false
-managed_solution: false
+managed_solution: true
 authors:
   - yash_agarwal
 ---

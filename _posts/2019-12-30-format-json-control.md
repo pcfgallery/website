@@ -10,7 +10,7 @@ demo_video:
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - benedikt_bergmann
 ---

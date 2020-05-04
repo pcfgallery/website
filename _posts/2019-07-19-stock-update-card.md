@@ -11,7 +11,7 @@ download: 'https://github.com/OOlashyn/PCF-StockMarketCard'
 model_support: true
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - oleksandr_olashyn
 ---

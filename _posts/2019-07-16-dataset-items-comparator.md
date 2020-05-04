@@ -10,7 +10,7 @@ demo_youtube: 1c1OChnhgsA
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - jose_aguilera
 ---

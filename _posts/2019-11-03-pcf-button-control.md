@@ -11,7 +11,7 @@ demo_youtube: 7FYqfcbvfh4
 model_support: true
 canvas_support: false
 license_defined: false
-managed_solution: false
+managed_solution: true
 authors:
   - maniraj_kandasamy_vadivel
 ---
