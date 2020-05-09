@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - loyalty
   - optionset
-image: /assets/images/loyalty.jog
+image: /assets/images/loyalty.jpg
 demo_gif: /assets/videos/loyalty.gif
 visit: 
 download: 'https://github.com/briangre/PCFLoyalty'
