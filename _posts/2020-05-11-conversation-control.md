@@ -15,4 +15,4 @@ managed_solution: true
 authors:
   - benedikt_bergmann
 ---
-A xontrol that shows a list of Entities (SubGrid) in a user friendly conversation style.
+A control that shows a list of Entities (SubGrid) in a user friendly conversation style.
