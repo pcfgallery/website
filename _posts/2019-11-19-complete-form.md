@@ -13,7 +13,7 @@ demo_gif: /assets/videos/completeform.gif
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - vinicius_basile
 ---
