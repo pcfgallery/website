@@ -6,7 +6,7 @@ categories:
   - presence state
   - user
 image: /assets/images/graphapiuserpresences.png
-demo_gif: /assets/videos/graphapiuserpresences.png
+demo_gif: /assets/videos/graphapiuserpresences.gif
 visit: 'https://taerimhan.com/consuming-microsoft-graph-api-from-pcf-control/'
 download: 'https://github.com/taerimhan/microsoft-graph-api-presence-pcf'
 model_support: true
