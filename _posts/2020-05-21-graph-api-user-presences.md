@@ -16,4 +16,4 @@ managed_solution: true
 authors:
   - tae_rim_han
 ---
-A control that demonostrates how Microsoft Graph API can be consumed in a PCF control. It allows a user to sign-in and retrieve permitted Microsoft Graph resources.
+A control that demonstrates how Microsoft Graph API can be consumed. It allows a user to sign-in and retrieve permitted Microsoft Graph resources.
