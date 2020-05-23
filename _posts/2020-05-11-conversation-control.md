@@ -5,7 +5,7 @@ categories:
   - conversation
   - subgrid
 image: /assets/images/conversationcontrol.png
-visit: 
+visit: 'https://benediktbergmann.eu/2020/05/23/pcf-use-conversationcontrol/'
 download: 'https://github.com/BenediktBergmann/PCF-Controls/tree/master/ConversationControl'
 demo_video: 
 model_support: true
