@@ -4,6 +4,7 @@ metadate: hide
 categories:
   - file
   - base64
+  - download
 image: /assets/images/canvasfiledownloader.png
 visit: 
 download: 'https://github.com/rwilson504/PCFControls/tree/master/CanvasFileDownloader'
