@@ -5,7 +5,7 @@ categories:
   - reactions
   - icon
 image: /assets/images/reactions.png
-visit: 
+visit: 'https://www.mehmetseckin.com/posts/its-time-we-added-emojis-to-dynamics/'
 download: 'https://github.com/mehmetseckin/Reactions'
 model_support: true
 canvas_support: false
