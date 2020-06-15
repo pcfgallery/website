@@ -5,7 +5,7 @@ categories:
   - timezone
   - time
 image: /assets/images/timezone.png
-visit: 
+visit: 'https://www.mehmetseckin.com/posts/my-first-pcf-control-timezonedisplay/'
 download: 'https://github.com/mehmetseckin/TimeZoneDisplay'
 model_support: true
 canvas_support: false
