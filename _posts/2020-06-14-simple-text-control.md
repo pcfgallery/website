@@ -3,7 +3,7 @@ title: Simple Text Control
 metadate: hide
 categories:
   - text
-image: /assets/images/simpletextcontrol.png
+image: /assets/images/simpletextcontrol.jpg
 demo_gif: 
 visit: 
 download: 'https://github.com/Kokulan365/Simple-Text-Control-PCF'
