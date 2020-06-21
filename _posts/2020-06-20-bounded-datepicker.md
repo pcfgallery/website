@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - date
   - picker
-image: /assets/images/bounded-datepicker.png
+image: /assets/images/bounded-datepicker.jpg
 demo_gif: /assets/videos/bounded-datepicker.gif
 download: 'https://github.com/danielftk/PCF_Projects'
 model_support: true
