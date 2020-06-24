@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - kanban
   - view
-image: /assets/images/powerk-kanban.png
+image: /assets/images/power-kanban.png
 demo_gif: 
 download: 'https://github.com/DigitalFlow/D365-PowerKanban'
 model_support: true
