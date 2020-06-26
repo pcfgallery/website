@@ -5,6 +5,30 @@ guido_preite:
   linkedin: guidopreite
   facebook:
   website: 'https://crmanswers.net'
+  
+benjamin_muller:
+  name: Benjamin Müller
+  twitter: 
+  github: 
+  linkedin: 
+  facebook:
+  website: 
+
+peter_muhlhans:
+  name: Peter Mühlhans
+  twitter: MuhlhansPeter
+  github: 
+  linkedin: peter-muehlhans
+  facebook:
+  website: 
+
+be_terna:
+  name: BE-terna
+  twitter: 
+  github: 
+  linkedin_company: be-terna
+  facebook:
+  website: 'https://www.be-terna.com'
 
 florian_kronert:
   name: Florian Krönert
