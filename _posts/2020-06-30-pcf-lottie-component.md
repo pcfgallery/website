@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - animation
   - lottie
-image: /assets/images/pcf-lottie-component.png
+image: /assets/images/pcf-lottie-component.jpg
 demo_youtube: RC1P0RsiqSE
 visit: 
 download: 'https://github.com/oiluis/pcflottiecomponent'
