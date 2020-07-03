@@ -15,4 +15,4 @@ authors:
   - kamalmeet_singh
   - microsoft
 ---
-A control to provide a News feature, by default getting news from < target="_blank" href="https://www.bing.com/news/search">Bing</a> but can be customized for other news sources.
+A control to provide a News feature, by default getting news from <a target="_blank" href="https://www.bing.com/news/search">Bing</a> but can be customized for other news sources.
