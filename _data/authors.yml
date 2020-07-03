@@ -5,6 +5,22 @@ guido_preite:
   linkedin: guidopreite
   facebook:
   website: 'https://crmanswers.net'
+  
+kamalmeet_singh:
+  name: Kamalmeet Singh
+  twitter: kamaleet
+  github: kamalmeetsingh
+  linkedin: kamalmeet-singh-643aa3a
+  facebook:
+  website: 'http://kamalmeet.com'  
+  
+microsoft:
+  name: Microsoft
+  twitter: Microsoft
+  github: microsoft
+  linkedin_company: microsoft
+  facebook:
+  website: 'https://www.microsoft.com'
 
 luis_filipe_nunes:
   name: Luis Filipe dos S. Nunes
