@@ -12,7 +12,7 @@ demo_video: /assets/videos/textanalytics.mp4
 model_support: true
 canvas_support: true
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - danish_naglekar
 ---
