@@ -11,7 +11,7 @@ download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/HoverDetai
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - danish_naglekar
 ---
