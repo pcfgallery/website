@@ -5,6 +5,7 @@ categories:
   - markdown
 image: /assets/images/markdownviewer.png
 demo_gif: 
+visit: 'https://never-stop-learning.de/powerup-your-powapps-with-pcf-components/'
 download: 'https://github.com/megel/PCF-MarkDownViewer'
 model_support: false
 canvas_support: true
