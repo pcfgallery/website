@@ -11,7 +11,7 @@ demo_gif: /assets/videos/tagpickercomponent.gif
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - joshua_campbell
   - office_privacy_canada
