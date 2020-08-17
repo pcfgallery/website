@@ -5,7 +5,7 @@ categories:
   - address
   - google places
 image: /assets/images/addressautocomplete.jpg
-download: 'https://github.com/a33ik/GoogleAddressAutocomplete_PCF'
+download: 'https://github.com/AndrewButenko/GoogleAddressAutocomplete_PCF'
 demo_youtube:
 demo_video: /assets/videos/addressautocomplete.mp4
 model_support: true
