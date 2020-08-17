@@ -5,7 +5,7 @@ categories:
   - address
   - composite
 image: /assets/images/compositeaddress.jpg
-download: 'https://github.com/a33ik/CompositeAddress_PCF'
+download: 'https://github.com/AndrewButenko/CompositeAddress_PCF'
 demo_youtube:
 demo_video: /assets/videos/compositeaddress.mp4
 model_support: true
