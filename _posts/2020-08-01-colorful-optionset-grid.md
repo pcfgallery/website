@@ -7,7 +7,7 @@ categories:
   - grid
 image: /assets/images/colorful-optionset-grid.png
 demo_gif: 
-visit: 
+visit: 'https://dianabirkelbach.wordpress.com/2020/08/19/my-checklist-for-a-dataset-pcf-using-fluent-ui/'
 download: 'https://github.com/brasov2de/ColorfulOptionsetGrid'
 model_support: true
 canvas_support: false
