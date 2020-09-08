@@ -5,7 +5,7 @@ categories:
   - world cloud
   - n-gram
 image: /assets/images/n-gram-word-cloud.png
-demo_gif:/assets/videos/n-gram-word-cloud.gif
+demo_gif: /assets/videos/n-gram-word-cloud.gif
 visit: 
 download: 'https://github.com/SimonGommeton/PCF_WordCloud'
 model_support: true
