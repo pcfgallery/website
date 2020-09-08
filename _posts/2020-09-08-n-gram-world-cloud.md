@@ -1,9 +1,9 @@
 ---
-title: N-Gram Word Cloud
+title: N Gram Word Cloud
 metadate: hide
 categories:
   - world cloud
-  - n-gram
+  - ngram
 image: /assets/images/n-gram-word-cloud.png
 demo_gif: /assets/videos/n-gram-word-cloud.gif
 visit: 
