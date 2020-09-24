@@ -1,5 +1,5 @@
 ---
-title: Colorful OptionSet Button
+title:  PCF Two Options Button
 metadate: hide
 categories:
   - button
