@@ -3,6 +3,7 @@ title: Card Viewer
 metadate: hide
 categories:
   - card
+  - optionset
 image: /assets/images/card-viewer.png
 visit: 
 download: 'https://github.com/victorsolaya/CardViewer'
