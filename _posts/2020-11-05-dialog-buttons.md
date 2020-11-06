@@ -6,7 +6,7 @@ categories:
   - button
 image: /assets/images/dialog-buttons.png
 demo_gif: /assets/videos/dialog-buttons.gif
-visit: 'https://dianabirkelbach.wordpress.com/2020/10/14/transform-forms-into-dialogs-and-more/'
+visit: 'https://dianabirkelbach.wordpress.com/2020/11/06/dialog-buttons-pcf/'
 download: 'https://github.com/brasov2de/DialogButtons'
 model_support: true
 canvas_support: false
