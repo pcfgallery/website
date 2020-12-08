@@ -12,7 +12,7 @@ download: 'https://github.com/tcorcor1/group-approval-viewer-D365-pcf'
 model_support: true
 canvas_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - ty_corcoran
 ---
