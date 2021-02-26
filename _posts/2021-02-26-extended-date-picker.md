@@ -8,8 +8,8 @@ categories:
 image: /assets/images/extended-date-picker.png
 visit: 
 download: 'https://github.com/promptsoft/Extended-Date-Picker'
-model_support: false
-canvas_support: true
+model_support: true
+canvas_support: false
 license_defined: true
 managed_solution: true
 authors:
