@@ -11,6 +11,7 @@ layout: null
       "author":"{{author_name}}",
       "model_support": {{post.model_support}},
       "canvas_support": {{post.canvas_support}},
+      "portals_support": {% if post.portals_support == true %}true{% else %}false{% endif %},
       "license_defined": {{post.license_defined}}
     }{% unless forloop.last %}, {% endunless %} {% endfor %}
 ]
