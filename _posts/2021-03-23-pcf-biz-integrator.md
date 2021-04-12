@@ -15,4 +15,4 @@ managed_solution: true
 authors:
   - maicon_vaz
 ---
-A control to check a brasilian CNPJ, and if it is correct the control will search on <a href="https://cnpj.biz">BIZ API</a> and get all data avaliable.
+A control to check a brasilian CNPJ, and if it is correct the control will search on <a href="https://cnpj.biz">BIZ API</a> and get all data available.
