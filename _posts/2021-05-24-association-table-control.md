@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - many to many
   - relationship
-image: /assets/images/association-table-control.jpg
+image: /assets/images/association-table-control.png
 demo_gif: /assets/videos/association-table-control.gif
 visit: 'https://crm.vet/power-apps-pcf-association-table-control-for-joint-many-to-many-tables/'
 download: 'https://github.com/crmvet/AssociationTableControl'
