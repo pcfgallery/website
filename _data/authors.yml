@@ -6,13 +6,21 @@ guido_preite:
   facebook:
   website: 'https://crmanswers.net'
 
-alex_pechenizkiy:
-  name: Alex Pechenizkiy
+crmvet:
+  name: CRM Vet
   twitter: thecrmvet
   github: crmvet
   linkedin: crmvet
   facebook:
   website: 'https://crm.vet'
+  
+marco_navarro:
+  name: Marco Navarro
+  twitter: mnavarrofelix
+  github: 
+  linkedin: marco-navarro-75628955
+  facebook:
+  website: 
   
 gabriel_fournier_grenier:
   name: Gabriel Fournier-Grenier
