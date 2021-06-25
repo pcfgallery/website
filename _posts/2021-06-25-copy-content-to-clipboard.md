@@ -5,7 +5,7 @@ categories:
   - copy & paste
   - clipboard
 image: /assets/images/copy-content-to-clipboard.png
-download: 'https://github.com/TBag/power-apps-copy-text-to-clipboard'
+download: 'https://github.com/anskanth/CopyToClipboard'
 model_support: false
 canvas_support: true
 portals_support: false
