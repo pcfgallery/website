@@ -10,7 +10,7 @@ model_support: false
 canvas_support: true
 portals_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - srikanth_alluri
 ---
