@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - activity
   - grid
-image: /assets/images/pcf-grid-activity.png
+image: /assets/images/pcf-grid-activity.jpg
 download: 'https://github.com/DynamicSadFun/PCFGridActivity'
 model_support: true
 canvas_support: false
