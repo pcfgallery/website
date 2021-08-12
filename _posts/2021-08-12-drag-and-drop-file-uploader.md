@@ -5,7 +5,7 @@ categories:
   - drag and drop
   - attachments
   - file
-image: /assets/images/drag-and-drop-file-uploader.jpg
+image: /assets/images/drag-and-drop-file-uploader.png
 demo_gif: /assets/videos/drag-and-drop-file-uploader.gif
 visit: 
 download: 'https://github.com/TerraroQ/PCF-FileUploader'
