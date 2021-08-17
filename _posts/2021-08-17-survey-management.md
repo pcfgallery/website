@@ -2,8 +2,7 @@
 title: Survey Management
 metadate: hide
 categories:
-  - picker
-  - user
+  - survey
 image: /assets/images/survey-management.png
 demo_gif: /assets/videos/survey-management.gif
 visit: 
