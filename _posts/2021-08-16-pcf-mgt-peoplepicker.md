@@ -6,7 +6,7 @@ categories:
   - user
 image: /assets/images/pcf-mgt-peoplepicker.png
 demo_gif: /assets/videos/pcf-mgt-peoplepicker.gif
-visit: 
+visit: 'https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman/'
 download: 'https://github.com/Ramakrishnan24689/PCF-Mgt-PeoplePicker'
 model_support: true
 canvas_support: false
