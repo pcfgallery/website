@@ -7,7 +7,7 @@ categories:
   - file
 image: /assets/images/drag-and-drop-file-uploader.png
 demo_gif: /assets/videos/drag-and-drop-file-uploader.gif
-visit: 
+visit: 'https://be-empowered.nl/news/upload-faster-smarter-documents-in-model-driven-app-with-pcf-control/'
 download: 'https://github.com/TerraroQ/PCF-FileUploader'
 model_support: true
 canvas_support: false
