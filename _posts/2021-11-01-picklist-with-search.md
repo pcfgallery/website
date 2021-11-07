@@ -18,4 +18,4 @@ authors:
   - eugene_tsvetkov
   - dynamica_labs
 ---
-A PCF control that allows users to search within the huge list of options in OptionSet field, design is similar to the OOB control.
+A control that allows users to search within the huge list of options in OptionSet field, design is similar to the OOB control.
