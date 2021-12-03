@@ -16,4 +16,4 @@ managed_solution: true
 authors:
   - richard_wilson
 ---
-A control that utilizes <a href="https://github.com/vaxxnz/nzcp-js">nzcp-js</a> to provide New Zealand Covid Pass Validation within a Canvas Power App.
+A control that utilizes <a target="_blank" href="https://github.com/vaxxnz/nzcp-js">nzcp-js</a> to provide New Zealand Covid Pass Validation within a Canvas Power App.
