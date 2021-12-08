@@ -5,6 +5,7 @@ categories:
   - address
   - azure
   - azure maps
+  - maps
 image: /assets/images/pcfazuremaps.jpg
 visit: 'https://www.powerappsguy.com/blog/powerapps-pcf-control-to-integrate-azure-maps/'
 download: 'https://github.com/jenschristianschroder/pcfAzureMaps'
