@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - azure
   - authentication
-image: /assets/images/elvisio-azure-auth-generator.jpg
+image: /assets/images/elvisio-azure-auth-generator.png
 demo_video:
 visit: 
 download: 'https://github.com/ImranCodeBug/Codebug-Elvisio-Azure-Auth-Generator'
