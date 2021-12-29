@@ -7,8 +7,7 @@ categories:
   - connection
 image: /assets/images/datasetvisualization.png
 download: 'https://github.com/dynamicscode/PCF-DataSetDemo'
-demo_youtube:
-demo_video: /assets/videos/datasetvisualization.mp4
+demo_youtube: 2WGMO9JrhwQ
 model_support: true
 canvas_support: false
 license_defined: true
