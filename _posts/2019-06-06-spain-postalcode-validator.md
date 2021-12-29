@@ -6,8 +6,7 @@ categories:
   - postal code
 image: /assets/images/cp.png
 download: 'https://github.com/CesarCalvoCobo/PCFCustomControls'
-demo_youtube:
-demo_gif: /assets/videos/cp.gif
+demo_youtube: 5o9_dUoFWQc
 model_support: true
 canvas_support: false
 license_defined: false
