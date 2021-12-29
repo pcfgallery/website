@@ -6,8 +6,7 @@ categories:
   - identity card
 image: /assets/images/dni.png
 download: 'https://github.com/CesarCalvoCobo/PCFCustomControls'
-demo_youtube:
-demo_gif: /assets/videos/dni.gif
+demo_youtube: 8QJfNWvuzKk
 model_support: true
 canvas_support: false
 license_defined: false
