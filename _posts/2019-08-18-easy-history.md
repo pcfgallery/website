@@ -8,8 +8,7 @@ categories:
 image: /assets/images/easyhistory.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/EasyHistory'
-demo_youtube:
-demo_gif: /assets/videos/easyhistory.gif
+demo_youtube: Cg9uWF9Hef4
 model_support: true
 canvas_support: false
 license_defined: true
