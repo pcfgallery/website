@@ -7,8 +7,7 @@ categories:
   - optionset
 image: /assets/images/entityfield.png
 download: 'https://github.com/AndrewButenko/EntityFieldOptionset_PCF'
-demo_youtube:
-demo_video: /assets/videos/entityfield.mp4
+demo_youtube: Mx3C_0mnN7E
 model_support: true
 canvas_support: false
 license_defined: true
