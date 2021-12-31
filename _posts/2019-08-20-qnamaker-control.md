@@ -9,8 +9,7 @@ categories:
 image: /assets/images/qnamaker.jpg
 visit: 'https://dhina.org/2019/08/19/my-first-pcf-control/'
 download: 'https://github.com/dhinag/pcf-qnamakercontrol'
-demo_youtube:
-demo_gif: /assets/videos/qnamaker.gif
+demo_youtube: 8KeTTcdprXo
 model_support: true
 canvas_support: false
 license_defined: true
