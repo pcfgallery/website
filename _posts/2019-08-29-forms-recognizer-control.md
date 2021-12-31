@@ -8,8 +8,7 @@ categories:
 image: /assets/images/formrecognizer.jpg
 visit: 'https://dhina.org/2019/08/28/forms-recognizer-pcf-control/'
 download: 'https://github.com/dhinag/pcf-formsrecognizercontrol'
-demo_youtube:
-demo_gif: /assets/videos/formrecognizer.gif
+demo_youtube: qmPieKSbFXg
 model_support: true
 canvas_support: false
 license_defined: true
