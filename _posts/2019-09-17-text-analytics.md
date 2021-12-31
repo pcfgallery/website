@@ -8,7 +8,7 @@ categories:
 image: /assets/images/textanalytics.png
 visit:
 download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/TextAnalytics'
-demo_video: /assets/videos/textanalytics.mp4
+demo_youtube: 1IXuGGt_-ZE
 model_support: true
 canvas_support: true
 license_defined: true
