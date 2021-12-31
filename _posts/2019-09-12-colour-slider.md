@@ -8,7 +8,7 @@ categories:
 image: /assets/images/booleanslider.jpg
 visit:
 download: 'https://github.com/jasonaalmeida/PCF_BooleanSlider'
-demo_gif: /assets/videos/booleanslider.gif
+demo_youtube: 3Hf0ot5Mw4c
 model_support: true
 canvas_support: false
 license_defined: true
