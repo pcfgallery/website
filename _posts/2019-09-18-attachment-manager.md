@@ -6,8 +6,7 @@ categories:
   - sharepoint
 image: /assets/images/attachmentmanager.jpg
 download: 'https://github.com/dynamicscode/AttachmentManager'
-demo_youtube:
-demo_video: /assets/videos/attachmentmanager.mp4
+demo_youtube: z33N3IcFN3g
 model_support: true
 canvas_support: false
 license_defined: true
