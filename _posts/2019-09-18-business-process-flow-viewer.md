@@ -6,7 +6,7 @@ categories:
 image: /assets/images/bpfviewer.png
 visit: 
 download: 'https://github.com/allandecastro/BusinessProcessFlowViewer'
-demo_video: /assets/videos/bpfviewer.mp4
+demo_youtube: Dr1Kl8zhs_I
 model_support: true
 canvas_support: false
 license_defined: true
