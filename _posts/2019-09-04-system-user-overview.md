@@ -8,8 +8,7 @@ categories:
 image: /assets/images/systemuseroverview.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/SystemUserOverView'
-demo_youtube:
-demo_gif: /assets/videos/systemuseroverview.gif
+demo_youtube: yFeT2Ba3T1g
 model_support: true
 canvas_support: false
 license_defined: true
