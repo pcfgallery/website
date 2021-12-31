@@ -6,8 +6,7 @@ categories:
 image: /assets/images/multitag.png
 visit: 
 download: 'https://github.com/PuchalapalliShravya/MultiTagPCFControl'
-demo_youtube:
-demo_video: /assets/videos/multitag.mp4
+demo_youtube: q2aWPINukeQ
 model_support: true
 canvas_support: false
 license_defined: true
