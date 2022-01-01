@@ -7,7 +7,7 @@ categories:
 image: /assets/images/addressapi.png
 visit: 
 download: 'https://github.com/jeromebq/PCF_AddressAPI'
-demo_gif: /assets/videos/addressapi.gif
+demo_youtube: UxfDIQW2IKM
 model_support: true
 canvas_support: false
 license_defined: true
