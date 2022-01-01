@@ -7,8 +7,7 @@ categories:
 image: /assets/images/statusreasonkanban.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/StatusReasonKanban'
-demo_youtube:
-demo_gif: /assets/videos/statusreasonkanban.gif
+demo_youtube: LRWMHkjtcJ0
 model_support: true
 canvas_support: false
 license_defined: true
