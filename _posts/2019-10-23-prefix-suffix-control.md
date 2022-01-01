@@ -7,7 +7,7 @@ categories:
   - number
 image: /assets/images/prefixsuffix.jpg
 download: 'https://github.com/DynamicsNinja/PCF-Prefix-Suffix-Control'
-demo_gif: /assets/videos/prefixsuffix.gif
+demo_youtube: _CNli_MxZ7k
 model_support: true
 canvas_support: true
 license_defined: true
