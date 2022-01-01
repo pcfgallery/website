@@ -8,7 +8,7 @@ categories:
 image: /assets/images/businessprocesscards.png
 visit: 
 download: 'https://github.com/rajyraman/Office-UI-Fabric-Business-Process'
-demo_video: /assets/videos/businessprocesscards.mp4
+demo_youtube: KEXE4IuHJz0
 model_support: true
 canvas_support: false
 license_defined: true
