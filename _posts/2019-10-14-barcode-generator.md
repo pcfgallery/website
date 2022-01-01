@@ -6,7 +6,7 @@ categories:
 image: /assets/images/barcode.png
 visit: 
 download: 'https://github.com/allandecastro/BarCode'
-demo_video: /assets/videos/barcode.webm
+demo_youtube: mnRALUPK8YY
 model_support: true
 canvas_support: true
 license_defined: true
