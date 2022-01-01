@@ -5,7 +5,7 @@ categories:
   - calendar
   - date
 image: /assets/images/calendarcontrol.jpg
-demo_gif: /assets/videos/calendarcontrol.gif
+demo_youtube: dBtqsAKt78c
 visit: 
 download: 'https://github.com/rwilson504/PCFControls/tree/master/Calendar'
 model_support: true
