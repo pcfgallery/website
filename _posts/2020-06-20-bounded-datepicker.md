@@ -5,7 +5,7 @@ categories:
   - date
   - picker
 image: /assets/images/bounded-datepicker.jpg
-demo_gif: /assets/videos/bounded-datepicker.gif
+demo_youtube: 1sb8yX2y8G4
 download: 'https://github.com/danielftk/PCF_Projects'
 model_support: true
 canvas_support: false
