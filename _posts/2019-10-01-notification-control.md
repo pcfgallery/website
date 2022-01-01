@@ -7,7 +7,7 @@ categories:
 image: /assets/images/notificationcontrol.jpg
 visit: 'https://powerapps.microsoft.com/en-us/blog/notification-control-using-powerapps-component-framework-and-azure-signalr/'
 download: 'https://github.com/rsantos00/powerapps/tree/master/NotificationControl'
-demo_video: /assets/videos/notificationcontrol.mp4
+demo_youtube: 3PRoB344mTY
 model_support: true
 canvas_support: true
 license_defined: false
