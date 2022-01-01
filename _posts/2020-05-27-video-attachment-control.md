@@ -8,7 +8,7 @@ categories:
 image: /assets/images/videoattachmentcontrol.jpg
 visit: 'https://d365dotblog.wordpress.com/2020/05/27/pcf-control-video-attachment-control/'
 download: 'https://github.com/DharanidharanBalasubramaniam/Video-Attachment-Control'
-demo_video: /assets/videos/videoattachmentcontrol.mp4
+demo_youtube: c68ha7B-AQw
 model_support: true
 canvas_support: false
 license_defined: true
