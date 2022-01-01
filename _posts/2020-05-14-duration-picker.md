@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - time
 image: /assets/images/durationpicker.png
-demo_gif: /assets/videos/durationpicker.gif
+demo_youtube: YLsvKW7g8EQ
 visit: 
 download: 'https://github.com/paulbreuler/PCF-Controls/tree/master/Duration%20Picker'
 model_support: true
