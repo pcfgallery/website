@@ -7,7 +7,7 @@ categories:
 image: /assets/images/xrmmetadata.jpg
 visit: 
 download: 'https://github.com/sabrish/XrmPowerControls.XrmMetadataAutoComplete'
-demo_gif: /assets/videos/xrmmetadata.gif
+demo_youtube: 0-nWTCNpB7s
 model_support: true
 canvas_support: false
 license_defined: true
