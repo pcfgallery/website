@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - multiselect
 image: /assets/images/multiselectflat.png
-demo_gif: /assets/videos/multiselectflat.gif
+demo_youtube: btxTgYaxGvM
 visit: 
 download: 'https://github.com/kailashr2k3/PCF-Controls'
 model_support: true
