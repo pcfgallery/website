@@ -5,7 +5,7 @@ categories:
   - copy & paste
   - clipboard
 image: /assets/images/copytext.jpg
-demo_gif: /assets/videos/copytext.gif
+demo_youtube: YTVlhTZhoN4
 visit: 'https://www.youtube.com/watch?v=URQLR8ndsOE'
 download: 'https://github.com/TBag/power-apps-copy-text-to-clipboard'
 model_support: false
