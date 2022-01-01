@@ -5,7 +5,7 @@ categories:
   - lookup
   - dropdown
 image: /assets/images/lookup-dropdown-pcf.png
-demo_gif: /assets/videos/lookup-dropdown-pcf.gif
+demo_youtube: zoP323SoySY
 visit: 
 download: 'https://github.com/drivardxrm/LookupDropdown.PCF'
 model_support: false
