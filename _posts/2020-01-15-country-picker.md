@@ -7,7 +7,7 @@ categories:
 image: /assets/images/countrypicker.png
 visit: 
 download: 'https://github.com/drivardxrm/CountryPicker.PCF'
-demo_video: /assets/videos/countrypicker.mp4
+demo_youtube: ULybOH3EUu4
 model_support: true
 canvas_support: false
 license_defined: true
