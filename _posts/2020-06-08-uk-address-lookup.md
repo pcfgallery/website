@@ -8,7 +8,7 @@ categories:
 image: /assets/images/ukaddresslookup.png
 visit: 'http://www.oliverflint.co.uk/2020/06/06/PCF-and-Form-Communication/'
 download: 'https://github.com/OliverFlint/PCF-UK-Address-Lookup'
-demo_gif: /assets/videos/ukaddresslookup.gif
+demo_youtube: EJfCUcWW1E4
 model_support: true
 canvas_support: false
 license_defined: true
