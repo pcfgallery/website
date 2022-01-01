@@ -6,7 +6,7 @@ categories:
 image: /assets/images/pcfsnowflakes.jpg
 visit: 
 download: 'https://github.com/prasath2k4/PCFSnowflakes'
-demo_video: /assets/videos/pcfsnowflakes.mp4
+demo_youtube: S_FxJZV7UlQ
 model_support: true
 canvas_support: false
 license_defined: false
