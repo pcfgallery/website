@@ -7,7 +7,7 @@ categories:
 image: /assets/images/timepicker.png
 visit: 
 download: 'https://github.com/drivardxrm/TimePicker.PCF'
-demo_video: /assets/videos/timepicker.mp4
+demo_youtube: VF4R-Erzt_c
 model_support: true
 canvas_support: false
 portals_support: true
