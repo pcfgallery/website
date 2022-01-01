@@ -7,7 +7,7 @@ categories:
 image: /assets/images/googlemapsgrid.jpg
 visit:
 download: 'https://github.com/jasonaalmeida/PCF_GoogleMapsGrid'
-demo_video: /assets/videos/googlemapsgrid.mp4
+demo_youtube: pvsK0GLBfcw
 model_support: true
 canvas_support: false
 license_defined: true
