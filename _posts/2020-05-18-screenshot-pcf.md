@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - screenshot
 image: /assets/images/screenshotpcf.jpg
-demo_video: /assets/videos/screenshotpcf.mp4
+demo_youtube: iaIDq0BP4j4
 visit: 'https://www.agarwalritika.com/post/pcf-to-directly-email-a-screenshot-from-a-canvas-app'
 download: 'https://github.com/ritikaagarwal08/Screenshot'
 model_support: false
