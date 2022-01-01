@@ -7,7 +7,7 @@ categories:
 image: /assets/images/selectentity.png
 visit: 
 download: 'https://github.com/bthompson-365/PCF-Metadata'
-demo_gif: /assets/videos/selectentity.gif
+demo_youtube: FP4M4NG9Esg
 model_support: true
 canvas_support: false
 license_defined: true
