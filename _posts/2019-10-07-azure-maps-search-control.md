@@ -8,7 +8,7 @@ categories:
 image: /assets/images/azuremapssearch.jpg
 visit: 
 download: 'https://github.com/mkcgphy/Azure-Maps-Get-Search-Address-TypeAhead'
-demo_video: /assets/videos/azuremapssearch.mp4
+demo_youtube: kyGlfakocP8
 model_support: true
 canvas_support: false
 license_defined: true
