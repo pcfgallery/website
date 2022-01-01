@@ -5,7 +5,7 @@ categories:
   - gradient
   - text
 image: /assets/images/gradienttext.jpg
-demo_gif: /assets/videos/gradienttext.gif
+demo_youtube: nYOG40vmBWY
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/GradientTextControl/PCF-Gradient-Text'
 model_support: true
