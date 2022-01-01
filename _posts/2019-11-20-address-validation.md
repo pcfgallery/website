@@ -7,7 +7,7 @@ categories:
 image: /assets/images/addressvalidation.jpg
 visit: 
 download: 'https://github.com/veritecaus/pcf-addressvalidator'
-demo_video: /assets/images/addressvalidation.mp4
+demo_youtube: lk78MyQPAbQ
 model_support: true
 canvas_support: false
 license_defined: true
