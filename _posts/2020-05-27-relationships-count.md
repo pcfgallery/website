@@ -8,7 +8,7 @@ categories:
 image: /assets/images/relationshipscount.png
 visit: 
 download: 'https://github.com/VinnyDyn/RelationshipsCount'
-demo_gif: /assets/videos/relationshipscount.gif
+demo_youtube: imeTsdshbXE
 model_support: true
 canvas_support: false
 license_defined: true
