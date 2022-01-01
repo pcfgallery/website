@@ -8,7 +8,7 @@ image: /assets/images/textsplitter.png
 visit: 
 download: 'https://github.com/VinnyDyn/TextSplitter'
 demo_youtube:
-demo_gif: /assets/videos/textsplitter.gif
+demo_youtube: cxpGpE6McsA
 model_support: true
 canvas_support: false
 license_defined: true
