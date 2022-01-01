@@ -5,7 +5,7 @@ categories:
   - sliding
   - text
 image: /assets/images/slidingtext.jpg
-demo_gif: /assets/videos/slidingtext.gif
+demo_youtube: 60E6mIIM9y8
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/SlidingTextControl/PCF-Sliding-Text'
 model_support: true
