@@ -7,7 +7,7 @@ categories:
 image: /assets/images/pdfkit.jpg
 visit: 
 download: 'https://github.com/drewpfeif/PCF-PSPDFKit'
-demo_gif: /assets/videos/pdfkit.gif
+demo_youtube: doUpUUHcDuI
 model_support: true
 canvas_support: false
 license_defined: true
