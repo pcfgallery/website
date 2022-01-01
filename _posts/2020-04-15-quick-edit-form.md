@@ -5,6 +5,7 @@ categories:
   - quick edit
   - form
 image: /assets/images/quickeditform.jpg
+demo_youtube: bV86lU2wUrU
 visit: 'https://stuffandtacos.azurewebsites.net/2020/04/15/pcf-quick-edit-form/'
 download: 'https://github.com/carfup/PCFControls/tree/master/QuickEditForm'
 model_support: true
@@ -13,6 +14,5 @@ license_defined: true
 managed_solution: true
 authors:
   - clement_olivier
-demo_gif: /assets/videos/quickeditform.gif
 ---
 A control to reuse a Quick View Form definition to display the related form and allow to edit the related record directly within the parent one.
