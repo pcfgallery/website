@@ -5,7 +5,7 @@ categories:
   - measurement
   - number
 image: /assets/images/basicmeter.png
-demo_gif: /assets/videos/basicmeter.gif
+demo_youtube: OYn9zDe_Usg
 visit: 
 download: 'https://github.com/briangre/PCF_BasicMeter'
 model_support: true
