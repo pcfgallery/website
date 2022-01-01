@@ -7,7 +7,7 @@ categories:
 image: /assets/images/selectlookup.png
 visit: 
 download: 'https://github.com/bthompson-365/PCF-Metadata'
-demo_gif: /assets/videos/selectlookup.gif
+demo_youtube: hYYNIm0nliY
 model_support: true
 canvas_support: false
 license_defined: true
