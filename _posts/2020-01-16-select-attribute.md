@@ -7,7 +7,7 @@ categories:
 image: /assets/images/selectattribute.png
 visit: 
 download: 'https://github.com/bthompson-365/PCF-Metadata'
-demo_gif: /assets/videos/selectattribute.gif
+demo_youtube: -0De9jBPWGU
 model_support: true
 canvas_support: false
 license_defined: true
