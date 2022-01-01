@@ -7,7 +7,7 @@ categories:
   - flag
 image: /assets/images/internationalphone.png
 download: 'https://github.com/OGcanviz/IntlTelInputPCF'
-demo_gif: /assets/videos/internationalphone.gif
+demo_youtube: LDptMVhPaik
 model_support: false
 canvas_support: true
 license_defined: true
