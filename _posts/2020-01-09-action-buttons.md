@@ -7,8 +7,7 @@ categories:
 image: /assets/images/actionbuttons.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/ActionButtons'
-demo_youtube:
-demo_gif: /assets/videos/actionbuttons.gif
+demo_youtube: Nihtz1yVHdU
 model_support: true
 canvas_support: false
 license_defined: true
