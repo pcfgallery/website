@@ -5,7 +5,7 @@ categories:
   - shadow
   - text
 image: /assets/images/dropshadowtext.jpg
-demo_gif: /assets/videos/dropshadowtext.gif
+demo_youtube: VxtIUW6LS-Y
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/DropShadowTextControl/PCF-DropShadow-Text'
 model_support: true
