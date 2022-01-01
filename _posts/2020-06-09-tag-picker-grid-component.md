@@ -8,7 +8,7 @@ categories:
 image: /assets/images/tagpickergridcomponent.png
 visit: 
 download: 'https://github.com/opc-cpvp/OPC.PowerApps.PCFControls'
-demo_gif: /assets/videos/tagpickergridcomponent.gif
+demo_youtube: RWdLq_QX_0k
 model_support: true
 canvas_support: false
 license_defined: true
