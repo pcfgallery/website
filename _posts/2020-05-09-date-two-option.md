@@ -7,7 +7,7 @@ categories:
 image: /assets/images/datetwooption.png
 visit: 
 download: 'https://github.com/drivardxrm/DateTwoOption.PCF'
-demo_gif: /assets/videos/datetwooption.gif
+demo_youtube: cAY03uhhUKU
 model_support: true
 canvas_support: false
 license_defined: true
