@@ -7,7 +7,7 @@ categories:
 image: /assets/images/optionseticons.png
 visit: 
 download: 'https://github.com/drivardxrm/IconOptionSet.PCF'
-demo_video: /assets/videos/optionseticons.mp4
+demo_youtube: SEX_RUvbxhc
 model_support: true
 canvas_support: false
 portals_support: true
