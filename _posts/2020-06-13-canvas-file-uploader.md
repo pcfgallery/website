@@ -5,7 +5,7 @@ categories:
   - file
   - upload
 image: /assets/images/canvasfileuploader.png
-demo_gif: /assets/videos/canvasfileuploader.gif
+demo_youtube: SZJK9jSdUmg
 visit: 
 download: 'https://github.com/rwilson504/PCFControls/tree/master/CanvasFileUploader'
 model_support: false
