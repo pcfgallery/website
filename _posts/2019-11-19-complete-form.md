@@ -8,8 +8,7 @@ categories:
 image: /assets/images/completeform.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/CompleteForm'
-demo_youtube:
-demo_gif: /assets/videos/completeform.gif
+demo_youtube: Sy2rQZLn8GY
 model_support: true
 canvas_support: false
 license_defined: true
