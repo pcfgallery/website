@@ -7,7 +7,7 @@ categories:
   - glb
 image: /assets/images/3dviewer.jpg
 download: 'https://github.com/dynamicscode/PCF-3DViewer'
-demo_video: /assets/videos/3dviewer.mp4
+demo_youtube: LBUR4UbKEWg
 model_support: true
 canvas_support: true
 license_defined: true
