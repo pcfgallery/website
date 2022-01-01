@@ -8,7 +8,7 @@ categories:
 image: /assets/images/vatnumber.jpg
 visit: 'https://www.blog.allandecastro.com/deep-dive-into-power-apps-component-framework-part-4-walkthrough-to-create-your-first-pcf-based-on-a-field/'
 download: 'https://github.com/allandecastro/VATNumberValidator'
-demo_video: /assets/videos/vatnumber.webm
+demo_youtube: r-V5FGpV5eo
 model_support: true
 canvas_support: false
 license_defined: true
