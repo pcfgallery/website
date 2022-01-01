@@ -8,7 +8,7 @@ categories:
 image: /assets/images/addressfinderwidget.jpg
 visit: 'https://ryanjames.dev/blog/2019/10/22/addressfinder-pcf-control-for-d365-and-cds/'
 download: 'https://github.com/ryanmichaeljames/pcf-addressfinder-widget'
-demo_gif: /assets/videos/addressfinderwidget.gif
+demo_youtube: wbqQ319aE38
 model_support: true
 canvas_support: false
 license_defined: true
