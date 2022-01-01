@@ -7,7 +7,7 @@ categories:
 image: /assets/images/peoplepicker.jpg
 visit: 
 download: 'https://github.com/Ramakrishnan24689/OfficeUIFabricReactPeoplePicker'
-demo_gif: /assets/videos/peoplepicker.gif 
+demo_youtube: zYAyTFs0qMs
 model_support: true
 canvas_support: false
 license_defined: true
