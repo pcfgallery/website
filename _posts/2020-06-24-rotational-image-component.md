@@ -5,7 +5,7 @@ categories:
   - rotate
   - image
 image: /assets/images/rotational-image-component.jpg
-demo_gif: /assets/videos/rotational-image-component.gif
+demo_youtube: eQQh2QKYo2Y
 visit: 
 download: 'https://github.com/rwilson504/PCFControls/tree/master/RotationalImage'
 model_support: false
