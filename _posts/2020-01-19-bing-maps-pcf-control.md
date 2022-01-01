@@ -7,7 +7,7 @@ categories:
 image: /assets/images/bingmaps.jpg
 visit: 'https://www.richardawilson.com/2020/01/bing-maps-pcf-control.html'
 download: 'https://github.com/rwilson504/PCFControls/tree/master/BingMapsGrid'
-demo_gif: /assets/videos/bingmaps.gif
+demo_youtube: tFJYqWIJEqg
 model_support: true
 canvas_support: false
 license_defined: true
