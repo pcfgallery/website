@@ -7,7 +7,7 @@ categories:
 image: /assets/images/weather.png
 visit: 
 download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/WeatherWidget'
-demo_video: /assets/videos/weather.webm
+demo_youtube: 6eAlxlY95nU
 model_support: true
 canvas_support: true
 license_defined: true
