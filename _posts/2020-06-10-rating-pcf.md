@@ -6,7 +6,7 @@ categories:
 image: /assets/images/ratingpcf.png
 visit: 
 download: 'https://github.com/drivardxrm/Rating.PCF'
-demo_gif: /assets/videos/ratingpcf.gif
+demo_youtube: y6MSot9GM6I
 model_support: true
 canvas_support: false
 portals_support: true
