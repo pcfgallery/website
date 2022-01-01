@@ -7,7 +7,7 @@ categories:
 image: /assets/images/dateascheckbox.png
 visit: 
 download: 'https://github.com/MscrmTools/PCF-Controls'
-demo_gif: /assets/videos/dateascheckbox.gif
+demo_youtube: _TXXb9yUZzI
 model_support: true
 canvas_support: false
 license_defined: true
