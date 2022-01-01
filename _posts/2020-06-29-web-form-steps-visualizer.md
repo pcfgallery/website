@@ -5,7 +5,7 @@ categories:
   - web form
   - power apps portal
 image: /assets/images/web-form-steps-visualizer.png
-demo_video: /assets/videos/web-form-steps-visualizer.webm
+demo_youtube: ojtXT3gcP1w
 visit: 'https://www.dancingwithcrm.com/web-form-steps-visualizer/'
 download: 'https://github.com/OOlashyn/PCF-WebFormStepVisualizer'
 model_support: true
