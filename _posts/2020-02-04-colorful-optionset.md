@@ -5,9 +5,9 @@ categories:
   - color
   - optionset
 image: /assets/images/colorfuloptionset.png
-demo_gif: /assets/videos/colorfuloptionset.gif
 visit: 
 download: 'https://github.com/ORBISAG/ORBIS.PCF.ColorfulOptionset'
+demo_youtube: O-SoOBCNPkM
 model_support: true
 canvas_support: false
 license_defined: true
