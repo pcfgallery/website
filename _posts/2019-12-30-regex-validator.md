@@ -7,7 +7,7 @@ categories:
 image: /assets/images/regexvalidator.jpg
 visit: 'http://dynamics.ariclevin.com/Home/Post/pcf-control-regular-expressions'
 download: 'https://github.com/ariclevin/PowerPlatform/tree/master/PCF/RegexValidator'
-demo_video: /assets/videos/regexvalidator.mp4
+demo_youtube: 4-z7rdBEIEo
 model_support: true
 canvas_support: false
 license_defined: false
