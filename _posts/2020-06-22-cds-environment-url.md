@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - url
 image: /assets/images/cds-environment-url.png
-demo_gif: /assets/videos/cds-environment-url.gif
+demo_youtube: 01o0eMEt1OI
 download: 'https://github.com/powerappsdev/CDSEnvironmentURL'
 model_support: false
 canvas_support: true
