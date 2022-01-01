@@ -7,7 +7,7 @@ categories:
 image: /assets/images/sparkline.png
 visit: 
 download: 'https://github.com/drivardxrm/Sparkline.PCF'
-demo_video: /assets/videos/sparkline.mp4
+demo_youtube: FhXZ3k5mjUE
 model_support: true
 canvas_support: false
 license_defined: true
