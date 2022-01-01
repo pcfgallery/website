@@ -7,11 +7,11 @@ categories:
 image: /assets/images/spidercluster.jpg
 visit: 
 download: 'https://github.com/alano444/PCFAzureMapCluststerSpider'
-demo_video: /assets/videos/spidercluster.mp4
+demo_youtube: NnBc837-Twk
 model_support: true
 canvas_support: false
 license_defined: false
-managed_solution: false
+managed_solution: true
 authors:
   - alan_o_keeffe
 ---
