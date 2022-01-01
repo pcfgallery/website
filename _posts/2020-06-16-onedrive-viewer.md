@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - onedrive
 image: /assets/images/onedriveviewer.jpg
-demo_gif: /assets/videos/onedriveviewer.gif
+demo_youtube: EYbm2hQX31Y
 download: 'https://github.com/DynamicTouch/OneDriveViewer'
 model_support: true
 canvas_support: false
