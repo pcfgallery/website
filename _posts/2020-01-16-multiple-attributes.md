@@ -7,7 +7,7 @@ categories:
 image: /assets/images/multipleattributes.png
 visit: 
 download: 'https://github.com/bthompson-365/PCF-Metadata'
-demo_gif: /assets/videos/multipleattributes.gif
+demo_youtube: T2MQyufRFlk
 model_support: true
 canvas_support: false
 license_defined: true
