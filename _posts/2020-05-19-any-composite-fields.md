@@ -5,6 +5,7 @@ categories:
   - composite
   - field
 image: /assets/images/anycompositefields.png
+demo_youtube: -4s5dUvmnpE
 visit: 'https://stuffandtacos.azurewebsites.net/2020/05/19/pcf-any-composite-fields/'
 download: 'https://github.com/carfup/PCFControls/tree/master/AnyCompositeFields'
 model_support: true
@@ -13,6 +14,5 @@ license_defined: true
 managed_solution: true
 authors:
   - clement_olivier
-demo_gif: /assets/videos/anycompositefields.gif
 ---
 A control to define your custom composite field on a form. 
