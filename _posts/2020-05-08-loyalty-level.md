@@ -5,7 +5,7 @@ categories:
   - loyalty
   - optionset
 image: /assets/images/loyalty.jpg
-demo_gif: /assets/videos/loyalty.gif
+demo_youtube: JBsoGfjG-wE
 visit: 
 download: 'https://github.com/briangre/PCFLoyalty'
 model_support: true
