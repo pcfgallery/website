@@ -7,7 +7,7 @@ categories:
 image: /assets/images/facecomponent.jpg
 visit: 
 download: 'https://github.com/rsantos00/powerapps/tree/master/FaceComponent/Code'
-demo_video: /assets/videos/facecomponent.mp4
+demo_youtube: P1XM39oWa8Q
 model_support: true
 canvas_support: true
 license_defined: false
