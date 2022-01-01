@@ -6,6 +6,7 @@ categories:
   - color
   - shape
 image: /assets/images/gradientfill.jpg
+demo_youtube: J4l-6dV2X-8
 demo_video: /assets/videos/gradientfill.mp4
 visit: 'https://www.powerappsguy.com/blog/power-apps-pcf-gradient-fill-control/'
 download: 'https://github.com/jenschristianschroder/PCF-Gradient-Fill/tree/master/PCF-Gradient-Fill'
