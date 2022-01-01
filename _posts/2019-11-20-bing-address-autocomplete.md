@@ -8,7 +8,7 @@ categories:
 image: /assets/images/bingaddress.png
 visit: 'https://code2life.blogspot.com/2019/11/yet-another-address-autocomplete-pcf.html'
 download: 'https://github.com/acieslik/PCF.BingAddressAutocomplete'
-demo_gif: /assets/videos/bingaddress.gif
+demo_youtube: bvPWUkAn6Q8
 model_support: true
 canvas_support: false
 license_defined: true
