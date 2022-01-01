@@ -5,7 +5,7 @@ categories:
   - spinning
   - text
 image: /assets/images/spinningtext.jpg
-demo_gif: /assets/videos/spinningtext.gif
+demo_youtube: BEgm2ib8Wic
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/SpinningTextControl/PCF-Spinning-Text'
 model_support: true
