@@ -5,7 +5,7 @@ categories:
   - pulsing
   - text
 image: /assets/images/pulsingtext.jpg
-demo_gif: /assets/videos/pulsingtext.gif
+demo_youtube: jVawVdkrLsQ
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/PulsingTextControl/PCF-Pulsing-Text'
 model_support: true
