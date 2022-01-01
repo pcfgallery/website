@@ -6,7 +6,7 @@ categories:
 image: /assets/images/sentiment_analysis_control.jpg
 visit: 'https://blog.michaelfp.com.br/2020/06/05/analisador-de-sentimento-power-apps-component/'
 download: 'https://github.com/michaelfp/pcf-sentimentanalysis-control'
-demo_gif: /assets/videos/sentiment_analysis_control.gif
+demo_youtube: 6rf9XsO3GIo
 model_support: true
 canvas_support: false
 license_defined: true
