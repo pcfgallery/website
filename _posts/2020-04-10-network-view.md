@@ -5,7 +5,7 @@ categories:
   - network
   - visualization
 image: /assets/images/networkview.jpg
-demo_video: /assets/videos/networkview.mp4
+demo_youtube: 3OXeNGKeKy4
 visit: 'https://develop1.net/public/post/2020/04/10/networkviewpcf'
 download: 'https://github.com/scottdurow/NetworkViewPCF'
 model_support: true
