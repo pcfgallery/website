@@ -7,7 +7,7 @@ categories:
 image: /assets/images/tagpickercomponent.png
 visit: 
 download: 'https://github.com/opc-cpvp/OPC.PowerApps.PCFControls'
-demo_gif: /assets/videos/tagpickercomponent.gif
+demo_youtube: 1KW4Y-69voA
 model_support: true
 canvas_support: false
 license_defined: true
