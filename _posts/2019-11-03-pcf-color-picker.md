@@ -7,7 +7,7 @@ categories:
 image: /assets/images/pcfcolorpicker.jpg
 visit: 'https://www.richardawilson.com/2019/10/pcf-color-picker.html'
 download: 'https://github.com/rwilson504/PCFControls/tree/master/ColorPicker'
-demo_gif: /assets/videos/pcfcolorpicker.gif
+demo_youtube: j2-WiqnfA5k
 model_support: true
 canvas_support: false
 license_defined: true
