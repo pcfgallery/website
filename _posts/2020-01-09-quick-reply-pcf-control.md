@@ -6,8 +6,7 @@ categories:
 image: /assets/images/quickreply.png
 visit: 'https://dhina.org/2020/01/08/quick-reply-pcf-control/'
 download: 'https://github.com/dhinag/QuickReplyPCFControl'
-demo_youtube:
-demo_gif: /assets/videos/quickreply.gif
+demo_youtube: ca0V4MOrOuo
 model_support: true
 canvas_support: false
 license_defined: true
