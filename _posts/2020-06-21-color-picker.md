@@ -5,7 +5,7 @@ categories:
   - color
   - picker
 image: /assets/images/color-picker.jpg
-demo_gif: /assets/videos/color-picker.gif
+demo_youtube: vMfb6sQI7ns
 download: 'https://github.com/danielftk/PCF_Projects'
 model_support: true
 canvas_support: true
