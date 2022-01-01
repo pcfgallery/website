@@ -6,7 +6,7 @@ categories:
 image: /assets/images/qrcodegenerator.jpg
 visit: 
 download: 'https://github.com/Ramakrishnan24689/QR_Code_Generator'
-demo_gif: /assets/videos/qrcodegenerator.gif 
+demo_youtube: I45QkamNW-E
 model_support: true
 canvas_support: false
 license_defined: true
