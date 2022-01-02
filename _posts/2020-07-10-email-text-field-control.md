@@ -5,7 +5,7 @@ categories:
   - email
   - web resource
 image: /assets/images/email-text-field-control.png
-demo_gif: /assets/videos/email-text-field-control.gif
+demo_youtube: CNgfDqcbOKw
 visit: 
 download: 'https://github.com/mst16/pcf'
 model_support: true
