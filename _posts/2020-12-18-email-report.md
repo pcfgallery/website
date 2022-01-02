@@ -5,7 +5,7 @@ categories:
   - email
   - report
 image: /assets/images/email-report.png
-demo_gif: /assets/videos/email-report.gif
+demo_youtube: _T6H_Yn1ANw
 visit: 'https://www.daymandynamics.com/pcf-email-report/'
 download: 'https://github.com/thomasdayman/PCF_EmailReport'
 model_support: true
