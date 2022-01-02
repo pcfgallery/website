@@ -5,7 +5,7 @@ categories:
   - search
   - optionset
 image: /assets/images/searchable-option-set.jpg
-demo_gif: /assets/videos/searchable-option-set.gif
+demo_youtube: TRumuaPG07o
 visit: 
 download: 'https://github.com/SimonGommeton/pcf_searchableOptionSet'
 model_support: true
