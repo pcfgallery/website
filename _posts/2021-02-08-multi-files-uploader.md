@@ -6,7 +6,7 @@ categories:
   - upload
   - attachments
 image: /assets/images/multi-files-uploader.png
-demo_video: /assets/videos/multi-files-uploader.mp4
+demo_youtube: YSLkXUIri6c
 visit: 
 download: 'https://github.com/asta96/MultiFilesUploader'
 model_support: true
