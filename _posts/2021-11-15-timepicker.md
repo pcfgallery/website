@@ -5,7 +5,7 @@ categories:
   - time
   - picker
 image: /assets/images/timepicker.jpg
-demo_gif: /assets/videos/timepicker.gif
+demo_youtube: k2rWnaqZ2ng
 visit: 'https://themicroconsulting.com/power-apps-time-picker-component/'
 download: 'https://github.com/themicroconsultinggit/TimePicker'
 model_support: false
