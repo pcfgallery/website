@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - two options
 image: /assets/images/two-options-composite.png
-demo_gif: /assets/videos/two-options-composite.gif
+demo_youtube: 8Y75cr3aF4w
 visit: 'https://dianabirkelbach.wordpress.com/2021/03/06/twooptionscomposite-the-downside-of-pcf-composite-controls/'
 download: 'https://github.com/brasov2de/TwoOptionsComposite'
 model_support: true
