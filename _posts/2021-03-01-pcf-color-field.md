@@ -5,7 +5,7 @@ categories:
   - color
   - field
 image: /assets/images/pcf-color-field.png
-demo_gif: /assets/videos/pcf-color-field.gif
+demo_youtube: CgUDn8VAjYo
 visit: 
 download: 'https://github.com/CrisAlencar/PCFColorField'
 model_support: true
