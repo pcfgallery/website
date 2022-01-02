@@ -8,7 +8,7 @@ categories:
 image: /assets/images/more-toggles.png
 visit: 'https://www.dancingwithcrm.com/more-toggles-control/'
 download: 'https://github.com/OOlashyn/PCF-MoreTogglesControl'
-demo_video: /assets/videos/more-toggles.mp4
+demo_youtube: UOlnmzPJM3o
 model_support: true
 canvas_support: false
 portals_support: true
