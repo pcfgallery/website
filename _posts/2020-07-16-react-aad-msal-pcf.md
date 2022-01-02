@@ -6,7 +6,7 @@ categories:
   - azure ad
   - msal
 image: /assets/images/react-aad-msal-pcf.png
-demo_gif: /assets/videos/react-aad-msal-pcf.gif
+demo_youtube: F8A_2bQ3d5c
 visit: 'https://taerimhan.com/using-react-aad-msal-to-call-a-secure-api-from-a-pcf-control/'
 download: 'https://github.com/taerimhan/react-aad-msal-poc-pcf'
 model_support: true
