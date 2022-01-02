@@ -6,7 +6,7 @@ categories:
   - order
   - dataset
 image: /assets/images/flexible-ordering-grid.jpg
-demo_gif: /assets/videos/flexible-ordering-grid.gif
+demo_youtube: a7S1-RtTqlA
 visit: 
 download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/FlexibleOrderingGrid'
 model_support: true
