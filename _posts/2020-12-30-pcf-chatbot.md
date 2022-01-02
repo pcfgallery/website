@@ -5,7 +5,7 @@ categories:
   - chatbot
   - virtual agents
 image: /assets/images/pcf-chatbot.jpg
-demo_gif: /assets/videos/pcf-chatbot.gif
+demo_youtube: BFU785TTz1Y 
 visit: 'https://www.linkedin.com/pulse/use-power-virtual-agents-powerapps-via-pcf-ramakrishnan-raman/'
 download: 'https://github.com/Ramakrishnan24689/PCFChatBot'
 model_support: true
