@@ -6,7 +6,7 @@ categories:
   - search
   - picklist
 image: /assets/images/picklist-with-search.jpg
-demo_gif: /assets/videos/picklist-with-search.gif
+demo_youtube: SUXTAKWv5t0
 visit: 
 download: 'https://github.com/tswetkoff/Dynamicalabs.PicklistWithSearch'
 model_support: false
