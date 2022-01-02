@@ -5,7 +5,7 @@ categories:
   - cnpj
   - brazil
 image: /assets/images/pcf-biz-integrator.png
-demo_gif: /assets/videos/pcf-biz-integrator.gif
+demo_youtube: 84S6ylThX1w
 visit:
 download: 'https://github.com/maiconcesarvaz/BIZpcf'
 model_support: true
