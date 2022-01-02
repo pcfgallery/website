@@ -5,7 +5,7 @@ categories:
   - notes
   - mobile
 image: /assets/images/simple-note-experience.jpg
-demo_gif: /assets/videos/simple-note-experience.gif
+demo_youtube: pnusG3Mwbk8
 visit: 'https://www.daymandynamics.com/pcf-simple-note-experience/'
 download: 'https://github.com/thomasdayman/PCF_SimpleNoteExperience'
 model_support: true
