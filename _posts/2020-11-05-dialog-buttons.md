@@ -5,7 +5,7 @@ categories:
   - dialog
   - button
 image: /assets/images/dialog-buttons.png
-demo_gif: /assets/videos/dialog-buttons.gif
+demo_youtube: 1tqAtotux5s
 visit: 'https://dianabirkelbach.wordpress.com/2020/11/06/dialog-buttons-pcf/'
 download: 'https://github.com/brasov2de/DialogButtons'
 model_support: true
