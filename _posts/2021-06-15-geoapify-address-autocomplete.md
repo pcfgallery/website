@@ -5,7 +5,7 @@ categories:
   - address
   - autocomplete
 image: /assets/images/geoapify-address-autocomplete.jpg
-demo_gif: /assets/videos/geoapify-address-autocomplete.gif
+demo_youtube: esZqoitEWuA
 visit: 
 download: 'https://github.com/ahmadnsam/pcf-geoapify-address-auto'
 model_support: true
