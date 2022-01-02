@@ -5,7 +5,7 @@ categories:
   - email
   - field
 image: /assets/images/email-field.png
-demo_video: /assets/videos/email-field.mp4
+demo_youtube: D1eHD_xEcHM
 download: 'https://github.com/eswarpr/pcfgallery-submissions'
 model_support: true
 canvas_support: true
