@@ -5,7 +5,7 @@ categories:
   - date
   - picker
 image: /assets/images/custom-date-picker.jpg
-demo_gif: /assets/videos/custom-date-picker.gif
+demo_youtube: tXZkTcLlI18
 visit: 
 download: 'https://github.com/tswetkoff/Dynamicalabs.CustomDatePicker'
 model_support: false
