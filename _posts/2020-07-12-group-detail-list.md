@@ -5,7 +5,7 @@ categories:
   - group
   - list
 image: /assets/images/group-detail-list.jpg
-demo_video: /assets/videos/group-detail-list.mp4
+demo_youtube: oy5SInvh4Tk
 visit: 
 download: 'https://github.com/MridulaSingh/PCF'
 model_support: true
