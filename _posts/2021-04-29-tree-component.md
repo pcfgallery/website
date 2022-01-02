@@ -5,7 +5,7 @@ categories:
   - many to many
   - tree
 image: /assets/images/tree-component.jpg
-demo_gif: /assets/videos/tree-component.gif
+demo_youtube: eUjDiAbkfMw
 visit: 
 download: 'https://github.com/opc-cpvp/OPC.PowerApps.PCFControls'
 model_support: true
