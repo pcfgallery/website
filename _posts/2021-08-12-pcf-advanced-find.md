@@ -5,7 +5,7 @@ categories:
   - advanced find
   - fetchxml
 image: /assets/images/pcf-advanced-find.jpg
-demo_gif: /assets/videos/pcf-advanced-find.gif
+demo_youtube: ES_-HUaJn9w
 visit: 
 download: 'https://github.com/osmanium/Mjolnir.PCF.AdvancedFind'
 model_support: true
