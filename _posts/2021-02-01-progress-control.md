@@ -5,7 +5,7 @@ categories:
   - number
   - percentage
 image: /assets/images/progress-control.png
-demo_gif: /assets/videos/progress-control.gif
+demo_youtube: djodbc-Hex0
 visit: 
 download: 'https://github.com/victorsolaya/progress-control-pcf'
 model_support: true
