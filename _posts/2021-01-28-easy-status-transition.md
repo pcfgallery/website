@@ -5,7 +5,7 @@ categories:
   - status
   - transition
 image: /assets/images/easy-status-transition.png
-demo_gif: /assets/videos/easy-status-transition.gif
+demo_youtube: hNo7LWb8Q3c
 visit: 
 download: 'https://github.com/VinnyDyn/EasyStatusTransition'
 model_support: true
