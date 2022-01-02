@@ -6,7 +6,7 @@ categories:
   - new zealand
   - covid
 image: /assets/images/nz-covid-pass-pcf.png
-demo_video: /assets/videos/nz-covid-pass-pcf.mp4
+demo_youtube: ZCmSQm_0bhg
 visit: 
 download: 'https://github.com/rwilson504/nzcp-pcf'
 model_support: false
