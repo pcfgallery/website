@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - survey
 image: /assets/images/survey-management.png
-demo_gif: /assets/videos/survey-management.gif
+demo_youtube: bdfCX0pumhA
 visit: 
 download: 'https://github.com/hzengindev/survey-management'
 model_support: true
