@@ -5,7 +5,7 @@ categories:
   - svg
   - dataset
 image: /assets/images/pcf-svg-control.jpg
-demo_gif: /assets/videos/pcf-svg-control.gif
+demo_youtube: 0K3vBkfM8bg
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-SVG-Control'
 model_support: true
