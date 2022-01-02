@@ -7,8 +7,7 @@ categories:
 image: /assets/images/text-reference.jpg
 visit: 
 download: 'https://github.com/VinnyDyn/TextReference'
-demo_youtube:
-demo_gif: /assets/videos/text-reference.gif
+demo_youtube: LL5Uw1eOnpM
 model_support: true
 canvas_support: false
 license_defined: true
