@@ -5,7 +5,7 @@ categories:
   - form
   - json
 image: /assets/images/pcf-form-json.png
-demo_gif: /assets/videos/pcf-form-json.gif
+demo_youtube: YL1aEcBOmNc
 visit:
 download: 'https://github.com/temmyraharjo/pcf-form-json'
 model_support: true
