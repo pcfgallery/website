@@ -6,7 +6,7 @@ categories:
   - flow
   - power automate
 image: /assets/images/group-approval-viewer.jpg
-demo_gif: /assets/videos/group-approval-viewer.gif
+demo_youtube: 0tb9h85Yj-w
 visit: 'https://tldr-dynamics.com/blog/group-approval-viewer-pcf'
 download: 'https://github.com/tcorcor1/group-approval-viewer-D365-pcf'
 model_support: true
