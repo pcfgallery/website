@@ -6,7 +6,7 @@ categories:
   - lookup
   - autocomplete
 image: /assets/images/auto-populate-text-column.png
-demo_gif: /assets/videos/auto-populate-text-column.gif
+demo_youtube: hNWDGbnVQyc
 visit: 
 download: 'https://github.com/satyarkar/PCF-Controls/tree/master/AutoPopulateTextColumn'
 model_support: true
