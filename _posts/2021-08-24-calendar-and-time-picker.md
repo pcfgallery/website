@@ -6,7 +6,7 @@ categories:
   - time
   - picker
 image: /assets/images/calendar-and-time-picker.png
-demo_gif: /assets/videos/calendar-and-time-picker.gif
+demo_youtube: 8xN0kmH6O8Q
 visit: 'https://themicroconsulting.com/powerapps-custom-calendar-component-with-time-picker/'
 download: 'https://github.com/themicroconsulting/calendarandtimepicker'
 model_support: false
