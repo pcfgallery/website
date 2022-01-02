@@ -6,7 +6,7 @@ categories:
   - portals
   - incident
 image: /assets/images/portal-comments-for-incidents.png
-demo_gif: /assets/videos/portal-comments-for-incidents.gif
+demo_youtube: B8Zu0Bet6kg
 visit:
 download: 'https://github.com/guedesjvsg/Portal-Comments-for-Incident'
 model_support: true
