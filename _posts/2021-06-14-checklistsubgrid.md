@@ -5,7 +5,7 @@ categories:
   - two options
   - subgrid
 image: /assets/images/checklistsubgrid.jpg
-demo_gif: /assets/videos/checklistsubgrid.gif
+demo_youtube: ETwx4CoyB0g
 visit: 
 download: 'https://github.com/sefarov92/CheckListSubgrid-PCF'
 model_support: true
