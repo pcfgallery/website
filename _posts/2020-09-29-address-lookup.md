@@ -5,7 +5,7 @@ categories:
   - address
   - canada
 image: /assets/images/address-lookup.png
-demo_video: /assets/videos/address-lookup.mp4
+demo_youtube: peiXqe6j2lc
 visit: 
 download: 'https://github.com/jaiu/PCFGallery/tree/master/AddressLookup-MaterialUI'
 model_support: true
