@@ -5,7 +5,7 @@ categories:
   - step
   - dialog
 image: /assets/images/n-step-dialog.jpg
-demo_video: /assets/videos/n-step-dialog.mp4
+demo_youtube: HrTDiETji6M
 visit:
 download: 'https://github.com/VisalakshiMuthukumar/NstepDialogPcf'
 model_support: true
