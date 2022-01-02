@@ -5,7 +5,7 @@ categories:
   - optionset
   - progress bar
 image: /assets/images/progress-bar-with-stage.png
-demo_gif: /assets/videos/progress-bar-with-stage.gif
+demo_youtube: Ntl-m0elgm8
 visit:
 download: 'https://github.com/molyom/progressStagePCF'
 model_support: true
