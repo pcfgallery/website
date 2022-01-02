@@ -5,7 +5,7 @@ categories:
   - user
   - mention
 image: /assets/images/mention-users-control.jpg
-demo_video: /assets/videos/mention-users-control.mp4
+demo_youtube: jAR60txFslQ
 visit: 
 download: 'https://github.com/MridulaSingh/PCF'
 model_support: true
