@@ -6,7 +6,7 @@ categories:
   - relationship
   - dropdown
 image: /assets/images/nndropdown.png
-demo_gif: /assets/videos/nndropdown.gif
+demo_youtube: cel13J1l8ZE
 visit: 
 download: 'https://github.com/NielsMinnee/NNDropdown'
 model_support: true
