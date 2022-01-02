@@ -5,7 +5,7 @@ categories:
   - graph
   - network
 image: /assets/images/pcf-network-graph.jpg
-demo_video: /assets/videos/pcf-network-graph.mp4
+demo_youtube: Hphaz1cLqwE
 visit: 
 download: 'https://github.com/jenschristianschroder/PCF-Network-Graph'
 model_support: false
