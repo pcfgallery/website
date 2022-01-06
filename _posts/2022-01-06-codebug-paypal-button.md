@@ -1,11 +1,11 @@
 ---
-title: Codebud PayPal Button
+title: Codebug PayPal Button
 metadate: hide
 categories:
   - paypal
   - payment
   - button
-image: /assets/images/codebud-paypal-button.png
+image: /assets/images/codebug-paypal-button.png
 visit: 
 download: 'https://github.com/ImranCodeBug/codebug-paypal-button-pcf'
 model_support: true
