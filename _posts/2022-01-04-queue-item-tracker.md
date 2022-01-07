@@ -7,7 +7,7 @@ categories:
 image: /assets/images/queue-item-tracker.png
 demo_youtube: eD_RxK0zTgY
 visit: 
-download: 'https://github.com/Krajpurohit/DocumentTemplateManager'
+download: 'https://github.com/Krajpurohit/QueueItemTracker'
 model_support: true
 canvas_support: false
 license_defined: true
