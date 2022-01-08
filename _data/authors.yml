@@ -6,11 +6,19 @@ guido_preite:
   facebook:
   website: 'https://crmanswers.net'
 
-robin_rosengrun:
-  name: Robin Rosengrün
-  twitter:
+guido_preite:
+  name: Guido Preite
+  twitter: crmanswers
   github: GuidoPreite
-  linkedin: robin-rosengrün-ab35091b6
+  linkedin: guidopreite
+  facebook:
+  website: 'https://crmanswers.net'
+
+shriram_pophali:
+  name: Shriram Pophali
+  twitter:
+  github: shrirampophali
+  linkedin: shriram-pophali-b8863521
   facebook:
   website:
 
