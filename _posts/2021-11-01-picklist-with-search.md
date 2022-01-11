@@ -9,8 +9,8 @@ image: /assets/images/picklist-with-search.jpg
 demo_youtube: SUXTAKWv5t0
 visit: 
 download: 'https://github.com/tswetkoff/Dynamicalabs.PicklistWithSearch'
-model_support: false
-canvas_support: true
+model_support: true
+canvas_support: false
 portals_support: false
 license_defined: true
 managed_solution: true
