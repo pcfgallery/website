@@ -7,7 +7,7 @@ categories:
 image: /assets/images/albanianxrm-styled-switch.png
 visit: 
 download: 'https://github.com/albanian-xrm/PCF.StyledSwitch'
-demo_youtube: v7c7-D-GXic
+demo_youtube: uYnLoJ_5WAY
 model_support: true
 canvas_support: true
 portals_support: false
