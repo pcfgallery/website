@@ -2,7 +2,7 @@
 title: Spinning Text
 metadate: hide
 categories:
-  - spinning
+  - spinner
   - text
 image: /assets/images/spinningtext.jpg
 demo_youtube: BEgm2ib8Wic
