@@ -15,4 +15,4 @@ managed_solution: false
 authors:
   - sindre_johan_vinje
 ---
-A button to show a button changing ownerid to the logged in user.
+A control to show a button changing ownerid to the logged in user.
