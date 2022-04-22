@@ -5,7 +5,7 @@ categories:
   - two options
   - check
 image: /assets/images/checkmark-control.jpg
-visit: 
+visit: 'https://www.bendenblanken.com/prettify-your-bpf-by-adding-a-code-component/'
 download: 'https://github.com/BendenBlanken/CheckmarkControl'
 demo_youtube: 
 model_support: true
