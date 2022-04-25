@@ -5,7 +5,7 @@ categories:
   - color
   - optionset
 image: /assets/images/colorfuloptionset.png
-visit: 
+visit: 'https://dianabirkelbach.wordpress.com/2022/04/24/colorful-optionset-pcf-virtual-and-improved/'
 download: 'https://github.com/ORBISAG/ORBIS.PCF.ColorfulOptionset'
 demo_youtube: O-SoOBCNPkM
 model_support: true
