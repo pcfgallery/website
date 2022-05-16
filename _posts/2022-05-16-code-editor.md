@@ -2,7 +2,6 @@
 title: Code Editor
 metadate: hide
 categories:
-  - code
   - editor
 image: /assets/images/code-editor.png
 visit: 
