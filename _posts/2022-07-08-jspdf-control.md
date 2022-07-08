@@ -3,7 +3,7 @@ title: jsPDF Control
 metadate: hide
 categories:
   - pdf
-image: /assets/images/jspdfcontrol.png
+image: /assets/images/jspdf-control.png
 visit: 'https://365lyf.com/jspdf-pcf-implementation-walkthrough/'
 download: 'https://github.com/365lyf/PCFControls/tree/master/jsPDF'
 demo_youtube: njIFhjlCI6U
