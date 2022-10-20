@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - time
   - picker
-image: /assets/images/time-picker-control.png
+image: /assets/images/time-picker-control.jpg
 visit: 'https://marketplace.bevercrm.com/pcf-controls/TimePicker'
 download: 'https://github.com/BeverCRM/PCF-TimePicker'
 demo_youtube: apItceOl36g
