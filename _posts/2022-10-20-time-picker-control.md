@@ -16,4 +16,4 @@ managed_solution: true
 authors:
   - bever
 ---
-Ac control to convert datetime field into time picker field.
+A control to convert datetime field into time picker field.
