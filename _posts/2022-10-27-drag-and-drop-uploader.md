@@ -6,8 +6,8 @@ categories:
   - drag and drop
   - file
 image: /assets/images/drag-and-drop-uploader.png
-visit: 'https://marketplace.bevercrm.com/pcf-controls/TimePicker'
-download: 'https://github.com/BeverCRM/PCF-TimePicker'
+visit: 'https://marketplace.bevercrm.com/pcf-controls/DragAndDropArea'
+download: 'https://github.com/BeverCRM/PCF-DragAndDropArea'
 demo_youtube: apItceOl36g
 model_support: true
 canvas_support: false
