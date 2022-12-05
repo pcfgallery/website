@@ -8,6 +8,7 @@ categories:
 image: /assets/images/json-table-export-pcf.png
 visit: 'https://codidharma.com/posts/json-table-export-pcf/'
 download: 'https://github.com/codidharma/fluent-ui-json-export-pcf'
+demo_youtube: T13MAFkAwGU
 model_support: false
 canvas_support: true
 portals_support: false
