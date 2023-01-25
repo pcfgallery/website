@@ -7,7 +7,7 @@ categories:
 image: /assets/images/fluent-ui-spinner.png
 demo_youtube: cVnHN96b4NM
 visit: 'https://ronaldsease.blogspot.com/2022/02/spinner-for-canvas-app-or-custom-page.html'
-download: 'https://github.com/jenschristianschroder/PCF-Text-Animation/tree/master/SpinningTextControl/PCF-Spinning-Text'
+download: 'https://github.com/ronaldsease/PCF-FluentUISpinner'
 model_support: false
 canvas_support: true
 portals_support: false
