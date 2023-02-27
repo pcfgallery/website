@@ -7,7 +7,7 @@ categories:
   - javascript
 image: /assets/images/button-control.png
 visit: 
-download: 'https://github.com/BIDSL/PCFControls'
+download: 'https://github.com/BIDSL/PCFControls#button-control'
 demo_youtube: pbu5nei3K64
 model_support: true
 canvas_support: false
