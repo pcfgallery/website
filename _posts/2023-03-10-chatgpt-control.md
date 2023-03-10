@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - chatgpt
   - openai
-image: /assets/images/hatgpt-control.jpg
+image: /assets/images/chatgpt-control.jpg
 demo_youtube: qDMOvLGCzHM
 visit: 
 download: 'https://github.com/Power-Maverick/PCF-Controls/tree/master/ChatGPTControl'
