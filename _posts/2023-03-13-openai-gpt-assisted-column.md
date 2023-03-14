@@ -12,7 +12,7 @@ model_support: true
 canvas_support: false
 portals_support: false
 license_defined: true
-managed_solution: false
+managed_solution: true
 authors:
   - keiji_inoue
 ---
