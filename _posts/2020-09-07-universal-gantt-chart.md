@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - gantt
 image: /assets/images/universal-gantt-chart.jpg
-demo_gif:
+demo_youtube: g2D3EgE9QS8
 visit: 
 download: 'https://github.com/MaTeMaTuK/pcf-universal-gantt-chart'
 model_support: true
