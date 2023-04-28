@@ -5,7 +5,7 @@ categories:
   - animation
   - lottie
 image: /assets/images/pcf-lottie-component.jpg
-demo_youtube: RC1P0RsiqSE
+demo_youtube: YahRSU435zI
 visit: 
 download: 'https://github.com/oiluis/pcflottiecomponent'
 model_support: false
