@@ -10,7 +10,7 @@ visit:
 download: 'https://github.com/Ionavoss/PowerApps/tree/main/PCF/RDW'
 model_support: true
 canvas_support: true
-portals_suppport: true
+portals_support: true
 license_defined: true
 managed_solution: true
 authors:
