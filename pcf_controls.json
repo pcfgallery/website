@@ -14,6 +14,6 @@ layout: null
       "portals_support": {% if post.portals_support == true %}true{% else %}false{% endif %},
       "license_defined": {{post.license_defined}},
       "managed_solution": {{post.managed_solution}},
-      "youtube": {% if post.demo_youtube %}https://www.youtube.com/watch?v={{post.demo_youtube}}{% endif %}
+      "youtube": {% if post.demo_youtube %}"https://www.youtube.com/watch?v={{post.demo_youtube}}"{% endif %}
     }{% unless forloop.last %}, {% endunless %} {% endfor %}
 ]
