@@ -5,7 +5,23 @@ guido_preite:
   linkedin: guidopreite
   facebook:
   website: 'https://crmanswers.net'
-  
+
+argano:
+  name: Argano
+  twitter: 
+  github: arbelatech
+  linkedin_company: 
+  facebook:
+  website: 'https://microsoft.argano.com'
+
+sandeep_angara:
+  name: Sandeep Angara
+  twitter: 
+  github: sandeep3136
+  linkedin: 
+  facebook:
+  website: 
+
 pedro_esteves:
   name: Pedro Esteves
   twitter: 
@@ -154,7 +170,7 @@ shko_online:
   name: Shko Online
   twitter: 
   github: Shko-Online
-  linkedin_company: shko-online
+  : shko-online
   facebook:
   website: 'https://shko.online'  
 
