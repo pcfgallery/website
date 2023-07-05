@@ -15,6 +15,6 @@ portals_support: true
 license_defined: true
 managed_solution: true
 authors:
-  - toms_audrins
+  - tim_van_onckelen
 ---
 A control to render a Fluent UI button triggering the native file selector. Outputs the selected files as data url.
