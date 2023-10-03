@@ -5,7 +5,7 @@ categories:
   - template
   - word
 image: /assets/images/raw-docx-templates.jpg
-demo_youtube: eQQh2QKYo2Y
+demo_youtube: 
 visit: 'https://www.richardawilson.com/2023/09/pcf-component-docx-templates-in-canvas.html'
 download: 'https://github.com/rwilson504/PCFControls/tree/master/DocxTemplatesCanvas'
 model_support: false
