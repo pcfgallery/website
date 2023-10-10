@@ -9,7 +9,7 @@ download: 'https://github.com/AlienCodifi/PCFQRCodeGenerator'
 demo_youtube: 
 model_support: false
 canvas_support: true
-portals_support: true
+portals_support: false
 license_defined: true
 managed_solution: true
 authors:
