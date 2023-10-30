@@ -16,4 +16,4 @@ managed_solution: false
 authors:
   - spwareing
 ---
-A control to provide a smoother transitioning image gallery compared to the OOB galleries withing Power Apps.
+A control to provide a smoother transitioning image gallery compared to the OOB galleries within Power Apps.
