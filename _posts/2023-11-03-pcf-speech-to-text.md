@@ -8,8 +8,8 @@ image: /assets/images/pcf-speech-to-text.png
 visit: 
 download: 'https://github.com/sameerjkl/pcf_speechtotext'
 demo_youtube: 
-model_support: true
-canvas_support: false
+model_support: false
+canvas_support: true
 portals_support: false
 license_defined: true
 managed_solution: true
