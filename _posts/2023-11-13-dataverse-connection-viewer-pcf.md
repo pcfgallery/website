@@ -8,7 +8,7 @@ categories:
 image: /assets/images/dataverse-connection-viewer-pcf.jpg
 visit: 
 download: 'https://github.com/keijiinouehotmail/DataverseConnectionViewerPCF'
-demo_youtube: 
+demo_youtube: lXHvM-1zpTQ
 model_support: true
 canvas_support: false
 portals_support: false
