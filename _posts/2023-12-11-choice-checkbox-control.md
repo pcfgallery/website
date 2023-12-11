@@ -17,4 +17,4 @@ managed_solution: true
 authors:
   - pratyush_singh
 ---
-A control to represent to visualize Multi Select and Single Select OptionSet/Choice Columns for model-driven apps.
+A control to visualize Multi Select and Single Select OptionSet/Choice Columns for model-driven apps.
