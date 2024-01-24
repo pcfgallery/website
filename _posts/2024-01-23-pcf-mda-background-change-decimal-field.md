@@ -2,7 +2,7 @@
 title: PCF MDA Background Change Decimal Field
 metadate: hide
 categories:
-  - whole number
+  - decimal
   - color
 image: /assets/images/pcf-mda-background-change-decimal-field.png
 visit: 
