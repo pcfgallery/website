@@ -6,7 +6,7 @@ categories:
   - upload
   - file
 image: /assets/images/modern-dropzone-pcf.png
-visit: 
+visit: 'https://github.com/GorgonUK/Modern-Dropzone-PCF/blob/main/README.md'
 download: 'https://github.com/GorgonUK/Modern-Dropzone-PCF'
 demo_youtube: SQW52y56fSQ
 model_support: true
