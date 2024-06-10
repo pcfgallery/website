@@ -5,6 +5,7 @@ categories:
   - attachments
   - upload
   - file
+  - sharepoint
 image: /assets/images/modern-dropzone-pcf.png
 visit: 'https://github.com/GorgonUK/Modern-Dropzone-PCF/blob/main/README.md'
 download: 'https://github.com/GorgonUK/Modern-Dropzone-PCF'
