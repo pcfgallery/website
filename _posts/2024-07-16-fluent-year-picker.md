@@ -7,7 +7,7 @@ categories:
   - picker
 image: /assets/images/fluent-year-picker.png
 visit: 
-download: 'https://github.com/nunosubtil/PCF-FluentYearPicker'
+download: 'https://github.com/nunosubtil/pcf-fluent-year-picker'
 demo_youtube: 
 model_support: true
 canvas_support: false
