@@ -7,7 +7,7 @@ categories:
   - fluentui
 image: /assets/images/basic-datagrid-for-canvas-apps.png
 visit: 
-download: 'https://github.com/cchannon/MultiSelectLookup'
+download: 'https://github.com/cchannon/BasicDataGridForCanvas'
 demo_youtube: SZsk_jb_kMo
 model_support: false
 canvas_support: true
