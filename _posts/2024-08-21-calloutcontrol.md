@@ -6,7 +6,7 @@ categories:
   - dialog
 image: /assets/images/calloutcontrol.jpg
 visit: 
-download: 'https://github.com/SahilATech/MultiFilePreviewControl'
+download: 'https://github.com/SahilATech/CallOutControl'
 demo_youtube: 
 model_support: true
 canvas_support: false
