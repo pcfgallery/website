@@ -2,7 +2,7 @@
 title: CollapsibleTextControl
 metadate: hide
 categories:
-  - test
+  - text
   - collapsible
 image: /assets/images/collapsibletextcontrol.png
 visit: 
