@@ -5,7 +5,7 @@ categories:
   - image
   - viewer
   - upload
-image: /assets/images/imageviewer.png
+image: /assets/images/imageviewer.jpg
 visit: 
 download: 'https://github.com/kuldipmaharjan/ImageViewerPCF'
 demo_youtube: j70fmyKFuIA
