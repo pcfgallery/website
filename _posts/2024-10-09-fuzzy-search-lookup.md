@@ -5,9 +5,9 @@ categories:
   - fuzzy search
   - lookup
 image: /assets/images/fuzzy-search-lookup.png
-visit: 
+visit: 'https://dynamicsjourney.wordpress.com/2024/10/09/building-a-fuzzy-search-lookup-pcf-control-with-react/'
 download: 'https://github.com/PhilKermeen/FuzzySearchLookupControl'
-demo_youtube: 
+demo_youtube: -g16g_5Hveo
 model_support: true
 canvas_support: false
 portals_support: false
