@@ -7,7 +7,7 @@ categories:
 image: /assets/images/bluesky-profile.jpg
 visit: 
 download: 'https://github.com/drivardxrm/BlueskyProfile.PCF'
-demo_youtube: y6MSot9GM6I
+demo_youtube: 
 model_support: true
 canvas_support: true
 portals_support: true
