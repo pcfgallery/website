@@ -1,5 +1,5 @@
 ---
-title: File CompressResizeImage
+title: CompressResizeImage
 metadate: hide
 categories:
   - image
