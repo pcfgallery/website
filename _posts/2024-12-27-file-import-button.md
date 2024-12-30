@@ -16,4 +16,4 @@ managed_solution: false
 authors:
   - fairoz_khan
 ---
-A c ontrol to bridge file management and integration in Power Platform applications by converting uploaded files into reusable Base64-encoded byte strings and triggering events to utilize the file content further.
+A control to bridge file management and integration in Power Platform applications by converting uploaded files into reusable Base64-encoded byte strings and triggering events to utilize the file content further.
