@@ -14,7 +14,7 @@ portals_support: false
 license_defined: true
 managed_solution: true
 authors:
-  - mario_rocha
+  - samuel_cardoso
   - novalogica
 ---
 A control that streamlines the visualization and management of environment variables within the Power Platform.
