@@ -5,7 +5,7 @@ categories:
   - query
   - builder
 image: /assets/images/react-query-builder.jpg
-visit: 
+visit: 'https://www.ais.com/dynamic-query-building-made-easy-a-pcf-control-guide-for-power-apps/'
 download: 'https://github.com/ais-open/powerplatform/tree/main/PCF-Controls/ReactQueryBuilder'
 demo_youtube: 351EipK1S10
 model_support: false
