@@ -16,4 +16,4 @@ managed_solution: true
 authors:
   - vnetix
 ---
-A control to select multiple lookup records in a single value.
+A control to enable multi-select functionality in lookup fields. It simplifies data association, enhances productivity, and supports advanced features like quick record creation and dynamic search. Designed for seamless integration, it ensures optimal performance and a superior user experience.
