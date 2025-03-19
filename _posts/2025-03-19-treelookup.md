@@ -7,7 +7,7 @@ categories:
 image: /assets/images/treelookup.jpg
 visit: 
 download: 'https://github.com/dotnetprog/dataverse-pcf-lookup-treeview'
-demo_video: YrfLjcdcFko
+demo_youtube: YrfLjcdcFko
 model_support: true
 canvas_support: false
 portals_support: false
