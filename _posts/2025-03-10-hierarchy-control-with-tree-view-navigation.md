@@ -36,6 +36,6 @@ Unlock a powerful way to explore and analyze data with our dual-view interface! 
 🔹 Full Version – Unlock Advanced Capabilities 🚀
 	•	Gain access to a more robust feature set for comprehensive data exploration.
 	•	Designed for businesses and professionals who need advanced tools for deeper insights.
-	•	Explore all possibilities here 👉 Resco Power Components
+	•	Explore all possibilities here 👉 <a target="_blank" href="https://www.resco.net/power-components/">Resco Power Components</a>
 
 💡 Transform the way you work with data! Whether you need a structured overview or an insightful visualization, our interactive solution ensures efficiency, clarity, and ease of use.
