@@ -2,8 +2,7 @@
 title: dnlbDataSet
 metadate: hide
 categories:
-  - banner
-  - blink
+  - subgrid
 image: /assets/images/dnlbdataset.png
 visit: 
 download: 'https://github.com/sssandeepsharma46/dnlbDataSet'
